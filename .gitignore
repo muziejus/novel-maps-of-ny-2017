@@ -1,0 +1,13 @@
+sample-docs/
+*.ods
+
+assignments/
+pdfs/
+*.out
+*.bcf
+*.blg
+*.run.xml
+*.aux
+*.bbl
+*.log
+
