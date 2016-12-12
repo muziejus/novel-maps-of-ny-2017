@@ -76,6 +76,21 @@ a fit. Of course, you could comment out those lines from
 There is also rudimentary support for bibliographies, but I’ve not yet
 formalized it.
 
+## Issues / roadmap
+
+It feels like some kind of post-mmd parsing will have to be done. Urls defined
+in the metadata turn into gibberish in `mmd2tex`, the processor doesn’t skip
+the line to transclude the navbar file, and there are a few other changed I
+would like to make to the how the final pdf version renders. The html side was
+easy. This, though…
+
+But enough hacking’s gone on here for me to be able to fill out the syllabus
+with the actual plans for the actual course!
+
+Additionally, the html file should be `index.html`, so that this repository can
+be served by github pages, which would also let me host the pdf syllabus that
+way.
+
 ## Credits
 
 This is a large reworking of a previous course I taught at NYU, “[Does It Work?](https://github.com/muziejus/does-it-work)” in
