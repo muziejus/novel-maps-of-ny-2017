@@ -1,90 +1,59 @@
-Readings that are not the four books listed above will be available on reserve
+Readings that are not the four books listed above will be available as pdfs
 or by other means. See the list of references at the end for details.
 
-### 1. That Old *Gatsby*, That Critique *Gatsby*
+### 1. Who is it?
 
-In the first section of this course, we’ll be returning to a familiar,
-canonical work of American 20th century literature, *The Great Gatsby*. Next,
-we will follow our own reading of the novel with a look at the novel’s critical
-history. 
+In the first section of this course, we begin by thinking about how literature
+can describe a person in the world and how that has changed over time.
 
-* Monday, 5 Sep: <strong>No Class.</strong>
+* Monday, 23 Jan: Introductions
+* Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 5. Presentation: DuBois, “Of our Spiritual Strivings.”
+* Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. 
+* Wednesday, 1 Feb: _The Book of Margery Kempe_ through ch. 33. Presentation: White, “Value of Narrativity in the Representation of Reality.”
+* Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. 
+* Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
+* Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
+* Monday, 13 Feb: **Library visit**
+* Wednesday, 15 Feb: _The Tempest_ through Act III. Presentation: Foucault, “Preface” and “Las Meninas.” **First esay due**.
+* Monday, 20 Feb: **No class**
+* Wednesday, 22 Feb: _The Tempest_ to end. Presentation: “Theses on the Philosophy of History.”
 
-* Wednesday, 7 Sep: Introductions and a snippet from Massumi’s “Translator’s Foreword: Pleasures of Philosophy.”
+### 2. Life during wartime
 
-* Monday, 12 Sep: Fitzgerald, <em>The Great Gatsby</em>, 
+Next, we look to the role literature plays in the scope of (imperialist) war.
 
-* Wednesday, 14 Sep: Fitzgerald, <em>The Great Gatsby</em>,
+* Monday, 27 Feb: “You Survived the War, Now Survive the Homecoming.”
+* Wednesday, 1 Mar: “Prayer in the Furnace” & “War Stories.”
+* Thursday, 2 Mar; Friday 3 Mar: Patrick Deer **plenary**.
+* Monday, 6 Mar: Selections from *U. S. A.*. Presentation: Martí, “Our America.”
+* Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
+* Friday, 10 Mar: **Second essay due**.
+* Monday, 13 Mar: **Spring Break**
 
-* Monday, 19 Sep: Fitzgerald, <em>The Great Gatsby</em>,
+### 3. Around the World
 
-* Wednesday, 21 Sep: (<em>Critical presentations begin</em>), Tredell, intro & ch. 1.
+What does it even mean to speak of “English” literature? Is this distinction important?
 
-* Monday, 26 Sep: Tredell, chs. 2 & 3.
+* Monday, 20 Mar: _Green-Eyed Thieves_ through *x*. Presentation: Apter, “Global *Translatio*: The ‘Invention’ of Comparative Literature, Istanbul, 1933.”
+* Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: Dimock, “Genre as World System: Epic and Novel on Four Continents.”
+* Monday, 27 Mar: _Migritude_ through *x*. 
+* Wednesday, 29 Mar: _Migritude_ to end.
+* Thursday, 30 Mar; Friday, 31 Mar: Jini Kim Watson **plenary**. **Second essay rewrite due**.
 
-* Wednesday, 28 Sep: Tredell, chs. 4 & 5.
+### 4. Who will survive in America?
 
-### 2. A Theoretical Break
+Finally, how does the world reconstruct itself in an American milieu?
 
-Next, we take a short break to learn about the stresses offered by these more
-critique-driven forms of reading.
+* Monday, 3 Apr: selected poems by Hughes & selected poems by McKay. Presentation: Césaire, “Discourse on Colonialism.”
+* Wednesday, 5 Apr: selected poems by Brooks. Presentation: DuBois, “Of the Sorrow Songs.”
+* Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections).
+* Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
+* Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through *x*.
+* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Fields & Fields, “A Tour of Racecraft.”
+* Monday, 24 Apr: “Native Sons” & “A Confession.”
+* Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
+* Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**.
+* Monday, 1 May: Debrief.
+* Wednesday, 3 May: **No class**.
+* Wednesday, 10 May: **Final essay due**.
 
-* Monday, 3 Oct: Bersani, “Pynchon, Paranoia, and Literature” and Latour,
-    “Why Has Critique Run out of Steam? From Matters of Fact to Matters of
-    Concern.”
-
-* Wednesday, 5 Oct: Sedgwick, “Paranoid Reading and Reparative Reading, or
-    You’re So Paranoid, You Probably Think This Essay Is about You” and
-    selections from Felski, <em>The Limits of Critique</em>.
-
-### 3. The New *Gatsby*, The Digital *Gatsby*
-
-These five weeks serve as an opportunity to learn new methods of literary
-criticism, now based in digital tools. We will learn how to use `Voyant` to
-quickly see patterns in the text of *The Great Gatsby*, `Python` to analyze the
-text within a high-level statistical programming environment, and, finally,
-`NYWalker` and `Carto` to learn how to make maps to analyse the geographical
-space of *The Great Gatsby*.
-
-* Monday, 10 Oct: *No Class.**
-
-* Monday, 17 Oct: Introduction to <code>Python</code>
-
-* Wednesday, 19 Oct: (<em>Digital presentations begin</em>), <code>Python</code> and <em>The Great Gatsby</em>
-
-* Monday, 24 Oct: <code>Python</code> and <em>The Great Gatsby</em>
-
-* Wednesday,  26 Oct: <code>Python</code> and <em>The Great Gatsby</em>
-
-* Monday, 31 Oct: <code>NYWalker</code> and <em>The Great Gatsby</em>
-
-* Wednesday, 2 Nov: <code>Carto</code> and <em>The Great Gatsby</em>
-
-* Monday, 7 Nov: <code>Carto</code> and <em>The Great Gatsby</em>
-
-* Wednesday, 9 Nov: Election Day debriefing
-
-* Monday, 14 Nov: <code>Carto</code> and <em>The Great Gatsby</em>
-
-### 4. The New Novels, The New Systems
-
-The semester closes with reading two new(er) novels that invite a systematic,
-totalized reading. We close with student presentations on their final projects.
-
-* Wednesday, 16 Nov: <strong>Novel presentations begin</strong>, Pynchon, chs. 1–3.
-  
-* Monday, 21 Nov: Pynchon, chs. 4 \& 5.
-
-* Wednesday, 23 Nov: <strong>No Class.</strong>
-
-* Monday, 28 Nov: Pynchon, ch. 6.
-
-* Wednesday, 30 Nov: Spiotta, pts. 1 \& 2.
-
-* Monday, 5 Dec: Spiotta, pts. 3 \& 4.
-
-* Wednesday, 7 Dec: Spiotta, pts. 5–7.
-
-* Monday, 12 Dec: Spiotta, pts. 8 \& 9.
-
-* Wednesday, 14 Dec: <strong>Final presentations</strong>
