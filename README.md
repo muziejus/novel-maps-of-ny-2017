@@ -5,9 +5,12 @@ the Spring of 2017 at NYU.
 
 This repository is an attempt to use
 [MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
-generate both a handsome webpage and a handsome pdf of the syllabus at the same
-time. This is (not) surprisingly rather tricky. However, this is also a
-template for future syllabi, and I encourage others to tweak this work.
+generate both a [handsome
+webpage](https://muziejus.github.io/english-101-2017/syllabus.html) and a
+[handsome pdf](https://muziejus.github.io/english-101-2017/syllabus.pdf) of the
+syllabus at the same time. This is (not) surprisingly rather tricky. However,
+this is also a template for future syllabi, and I encourage others to tweak
+this work.
 
 ## Structure
 
