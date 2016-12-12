@@ -1,5 +1,5 @@
 * Coovadia, Imraan. *Green-Eyed Thieves* (2011)
-* Johnson, James Wheldon. *The Autobiography of an Ex-Colored Man* (1912/1927)
+* Johnson, James Weldon. *The Autobiography of an Ex-Colored Man* (1912/1927)
 * Kempe, Margery. *The Book of Margery Kempe* (c. 1440)
 * Morraga, Cherrié. *Loving in the War Years: Lo que nunca pasó por sus labios* (1983)
 * Patel, Shailja. *Migritude* (2010)
