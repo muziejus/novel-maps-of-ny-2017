@@ -1,11 +1,12 @@
-* to introduce you to historical trends in literary criticism from the 20th and 21st centuries; 
+* to introduce you to 
+    * the history of literature as an object of study;
+    * tools and resources provided by the university for literary study;
 * to develop skills in
-    * reading analytical and literary texts;
-    * writing analyses that are cogent and syncretic, making use of the various methods on hand;
-    * creating (as well as using and distributing) geospatial datasets,
-      GISes, and cartographic visualizations of the former;
-    * creating (as well as using and distributing) corpora in Python;
-    * using `NLTK` to investigate the properties of a text;
+    * reading literary texts carefully and analytically;
+    * summarizing and presenting analytical texts in class;
+    * writing short analytical essays about literary texts;
+    * revising writing;
+    * writing analyses that are cogent and syncretic, making use of the various methods on hand; and
 * to develop, refine, and present scholarship that exists, spatially and
     temporally, beyond the boundaries of the course.
 
