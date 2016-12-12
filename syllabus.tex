@@ -1,0 +1,374 @@
+\input{latex-support/first-header.tex}
+\def\mytitle{Introduction to the Study of Literature}
+\def\instructor{Moacir P. de Sá Pereira}
+\def\instructorurl{http:/\slash moacir.com}
+\def\instructoremail{blah@blah.com}
+\def\courseurl{http:/\slash moacir.com\slash courses-nyu\slash english-101-2017}
+\def\coursecode{ENGL-UA 101.001}
+\def\courseterm{Spring 2017}
+\def\courseroom{ARC LL03}
+\def\coursetime{MW 15:30–16:45}
+\def\officehours{244 Greene, 506, T 15:00–16:30}
+\def\githuburl{http:/\slash github.com\slash muziejus\slash english-101-2017}
+\def\transcludebase{sections}
+\input{latex-support/second-header.tex}
+
+\{\{navbar.*\}\}
+
+\chapter{Course description}
+\label{coursedescription}
+
+Over the past decade, literary study has become increasingly, reflexively
+interested in investigating the methods that it generates. At the same time,
+the digital humanities have emerged to claim a part of growing English
+departments. This course serves as an introduction to both of these currents in
+contemporary literary study. We will consider both familiar forms of reading as
+well as new, different forms that have broadened the way we interpret texts,
+and we will then look to how the digital humanities, as an especially
+method-oriented subfield, brings these questions of interpretation into even
+sharper contrast. Students will, then, see how debates about interpretation are
+lived and experienced within the digital humanities, both in theory and
+practice. Finally, students will learn to use digital methodologies in their
+interpretation, with possible projects in textual analysis, topic modeling, and
+geospatial analysis.
+
+\chapter{Goals of the course}
+\label{goalsofthecourse}
+
+\begin{itemize}
+\item to introduce you to historical trends in literary criticism from the 20th and 21st centuries;
+
+\item to develop skills in
+
+\begin{itemize}
+\item reading analytical and literary texts;
+
+\item writing analyses that are cogent and syncretic, making use of the various methods on hand;
+
+\item creating (as well as using and distributing) geospatial datasets,
+ GISes, and cartographic visualizations of the former;
+
+\item creating (as well as using and distributing) corpora in Python;
+
+\item using \texttt{NLTK} to investigate the properties of a text;
+
+\end{itemize}
+
+\item to develop, refine, and present scholarship that exists, spatially and
+temporally, beyond the boundaries of the course.
+
+\end{itemize}
+
+\chapter{Books}
+\label{books}
+
+\begin{itemize}
+\item F. Scott Fitzgerald, \emph{The Great Gatsby}, 1925 (Scribner) \href{http://www.strandbooks.com/strand%2D80/great%2Dgatsby/_/searchString/gatsby}{Strand}\footnote{\href{http://www.strandbooks.com/strand\%2D80/great\%2Dgatsby/\_/searchString/gatsby}{http:/\slash www.strandbooks.com\slash strand\%2D80\slash great\%2Dgatsby\slash \_\slash searchString\slash gatsby}}
+
+\item Thomas Pynchon, \emph{The Crying of Lot 49}, 1965 (Harper Perennial) \href{http://www.strandbooks.com/fiction/crying%2Dof%2Dlot%2D49%2D1/_/searchString/crying%20of%20lot%2049}{Strand}\footnote{\href{http://www.strandbooks.com/fiction/crying\%2Dof\%2Dlot\%2D49\%2D1/\_/searchString/crying\%20of\%20lot\%2049}{http:/\slash www.strandbooks.com\slash fiction\slash crying\%2Dof\%2Dlot\%2D49\%2D1\slash \_\slash searchString\slash crying\%20of\%20lot\%2049}}
+
+\end{itemize}
+
+\chapter{Course requirements \& policies}
+\label{courserequirementspolicies}
+
+\section{Assessment}
+\label{assessment}
+
+\subsection{Participation}
+\label{participation}
+
+The success of any course is directly related to the levels of engagement
+brought both by the instructor and the students. As such, class participation
+is vitally important. Similarly, though attendance is logically required for
+class participation, it is not sufficient. This class requires active
+participation both inside the classroom and outside. No “passive consumers,” as
+a professor of mine put it. 
+
+You can miss up to three meetings without penalty, and you can use these
+opportunities tactically, to provide space and time to either fulfill other
+obligations or recuperate from the previous night. I don’t care why you didn’t
+come. I start to care with the fourth absence, and I start to require
+documentation. Repeated unexcused absence quickly gobbles up the class
+participation component of the grade and begins to threaten your ability to
+even \emph{pass} the course.
+
+Because this course is discussion-oriented, active participation means, most
+importantly, participating in the discussions in class. But useful and engaged
+participation in discussions also depends on good preparation, which includes
+doing the reading for the course. I encourage (but will not collect) you to
+think of one or two points of entry into a discussion of a text for each
+meeting. This could be a point of confusion (don’t be shy!), a point of
+comparison\slash contrast between passages to another work, or a useful parallel to
+something outside the coursework. Come to class with questions, in other words,
+and writing them out as mini-prompts may be especially helpful.
+
+\subsection{Critical presentation}
+\label{criticalpresentation}
+
+While reading the critical history of \emph{The Great Gatsby}, each of you
+will give a short (8–10 minutes) presentation that introduces either one of the
+essays cited in the reading for that day or an essay you have found via JSTOR
+contemporary with that day’s reading. You will get to sign up for a time period
+on the first day of class. The presentation will also have a short (1 page)
+written component that you will turn in. The goal of the presentation is to
+introduce new knowledge to the class that it has not already had, thereby
+facilitating that day’s discussion. This presentation cannot make use of the
+computer in the classroom, and you should email the subject of your
+presentation to me 24 hours in advance.
+
+\subsection{Digital presentation}
+\label{digitalpresentation}
+
+During the digital section of the course, each of you will give a short (8–10
+minutes) presentation on a digital tool or project you have found online,
+possibly even making some quick use of the Gatsby dataset. The tool or
+project should be appropriate to that day’s work, meaning statistical analysis
+tools and projects fit for the Python days, while spatial analysis
+tools and projects fit better for the Carto days. You can sign up
+on the first day for these presentations. Your presentation will also have a
+short (1 page) written component that you will turn in. The goal of the
+presentation is to introduce a new form of digital reading to the class that
+may spark new ideas for final projects. This presentation can make use of the
+computer in the classroom, and you should email the subject of your
+presentation to me 24 hours in advance.
+
+\section{Policies}
+\label{policies}
+
+\subsection{Assignments}
+\label{assignments}
+
+The assignment instructions, though detailed in the syllabus, may be enhanced
+or supplemented during the course. If you have any questions about an
+assignment, you should ask for clarification early. The assignments are due on
+the dates noted in the syllabus. 
+
+All of the writing can be submitted electronically.
+
+Late assignments jeopardize both your and my rhythms in the class, so they will
+be penalized. I will give you feedback and will happily discuss any work with
+you, but grades should be considered final.
+
+Additionally, grading is variable based on what you feel your strengths are.
+Each assignment will be worth at least 16\% of your final grade, but the upper
+limit of the grade is set by you. You should email me how you slice up the pie
+by the end of October.
+
+\subsection{Attendance}
+\label{attendance}
+
+As indicated above, attendance is required. Three absences will be excused
+without supplemental documentation, and I encourage you to use these
+tactically. Catching up is your responsibility.
+
+Subsequent absence requires formal documentation. Otherwise it begins to harm
+your final grade. Though class participation is only part of the final grade,
+extreme absenteeism (more than six meetings missed) may put your ability to
+pass the course at risk.
+
+Please show up on time to class, as well.
+
+\subsection{Digital Learning}
+\label{digitallearning}
+
+I will be exposing you to a lot of new tools and concepts. Our class will have
+digitally-focused classes in our classroom, where we will learn new skills.
+These skills are difficult, and I will try to help as much as possible.
+
+\subsection{Electronics}
+\label{electronics}
+
+Despite the presence of the digital, especially as the class gets deeper into
+the semester, our time in class is meant as a sanctuary from the distractions
+of the rest of the world. Furthermore, the class relies on discussion and
+engagement, and the front of a laptop screen is a brilliant shield behind which
+a student can hide, even unintentionally. During our meetings, then, there can
+be no use of electronic devices. Please also set whatever devices you have but
+aren’t using to silent mode.
+
+\subsection{Communication}
+\label{communication}
+
+Communication is vitally important to the pedagogical process, and this course
+depends on clear communication in both directions. If you have questions,
+comments, or concerns, the best course of action is to come visit me during my
+office hours as noted at the top of this page. If your questions, etc., cannot
+wait until then, then clearly you can also email me. I should respond within
+48 hours.
+
+This is a new course, meaning that there will be even more unfinished edges
+ready to scratch someone than in a typical course. We have a collective goal of
+learning, however, so if the unfinished edges get to be overwhelming, I’ll
+adjust the parameters of the course appropriately. I’m not out to catch you,
+nor is this course a process of grotesque punishment. Please don’t treat it as
+such.
+
+Once more, with feeling: \emph{communication is vitally important to the pedagogical
+process}. If you have concerns or worries, please let me know about them sooner
+rather than later.
+
+\subsection{Disabilities}
+\label{disabilities}
+
+If you have a disability, you should register with the Moses Center for
+Students with Disabilities (mosescsd@nyu.edu; 726 Broadway, 2nd Floor,
+212.998.4980), which can arrange for things like extra time for assignments.
+Please inform me \emph{at the beginning of the semester} if you need any special
+accommodations regarding the assignments.
+
+\subsection{Academic integrity}
+\label{academicintegrity}
+
+Please look at NYU’s \href{http://cas.nyu.edu/page/academicintegrity}{full statement on academic
+integrity}\footnote{\href{http://cas.nyu.edu/page/academicintegrity}{http:/\slash cas.nyu.edu\slash page\slash academicintegrity}}. Any instance of
+academic dishonesty will result in an F and will be reported to the relevant
+dean for disciplinary action. Remember that plagiarism is a matter of fact, not
+intention. Know what it is, and don’t do it.
+
+\subsection{Syllabus}
+\label{syllabus}
+
+The handsome, printer-friendly \texttt{pdf} version of the syllabus is available \href{https://github.com/muziejus/does-it-work/blob/master/syllabus.pdf}{here}\footnote{\href{https://github.com/muziejus/does-it-work/blob/master/syllabus.pdf}{https:/\slash github.com\slash muziejus\slash does-it-work\slash blob\slash master\slash syllabus.pdf}}.
+
+ \newpage 
+
+\chapter{Schedule}
+\label{schedule}
+
+Readings that are not the four books listed above will be available on reserve
+or by other means. See the list of references at the end for details.
+
+\section{1. That Old \emph{Gatsby}, That Critique \emph{Gatsby}}
+\label{1.thatoldgatsbythatcritiquegatsby}
+
+In the first section of this course, we’ll be returning to a familiar,
+canonical work of American 20th century literature, \emph{The Great Gatsby}. Next,
+we will follow our own reading of the novel with a look at the novel’s critical
+history. 
+
+\begin{itemize}
+\item Monday, 5 Sep: No Class.
+
+\item Wednesday, 7 Sep: Introductions and a snippet from Massumi’s “Translator’s Foreword: Pleasures of Philosophy.”
+
+\item Monday, 12 Sep: Fitzgerald, The Great Gatsby, 
+
+\item Wednesday, 14 Sep: Fitzgerald, The Great Gatsby,
+
+\item Monday, 19 Sep: Fitzgerald, The Great Gatsby,
+
+\item Wednesday, 21 Sep: (Critical presentations begin), Tredell, intro \& ch. 1.
+
+\item Monday, 26 Sep: Tredell, chs. 2 \& 3.
+
+\item Wednesday, 28 Sep: Tredell, chs. 4 \& 5.
+
+\end{itemize}
+
+\section{2. A Theoretical Break}
+\label{2.atheoreticalbreak}
+
+Next, we take a short break to learn about the stresses offered by these more
+critique-driven forms of reading.
+
+\begin{itemize}
+\item Monday, 3 Oct: Bersani, “Pynchon, Paranoia, and Literature” and Latour,
+“Why Has Critique Run out of Steam? From Matters of Fact to Matters of
+Concern.”
+
+\item Wednesday, 5 Oct: Sedgwick, “Paranoid Reading and Reparative Reading, or
+You’re So Paranoid, You Probably Think This Essay Is about You” and
+selections from Felski, The Limits of Critique.
+
+\end{itemize}
+
+\section{3. The New \emph{Gatsby}, The Digital \emph{Gatsby}}
+\label{3.thenewgatsbythedigitalgatsby}
+
+These five weeks serve as an opportunity to learn new methods of literary
+criticism, now based in digital tools. We will learn how to use \texttt{Voyant} to
+quickly see patterns in the text of \emph{The Great Gatsby}, \texttt{Python} to analyze the
+text within a high-level statistical programming environment, and, finally,
+\texttt{NYWalker} and \texttt{Carto} to learn how to make maps to analyse the geographical
+space of \emph{The Great Gatsby}.
+
+\begin{itemize}
+\item Monday, 10 Oct: \emph{No Class.}*
+
+\item Monday, 17 Oct: Introduction to Python
+
+\item Wednesday, 19 Oct: (Digital presentations begin), Python and The Great Gatsby
+
+\item Monday, 24 Oct: Python and The Great Gatsby
+
+\item Wednesday, 26 Oct: Python and The Great Gatsby
+
+\item Monday, 31 Oct: NYWalker and The Great Gatsby
+
+\item Wednesday, 2 Nov: Carto and The Great Gatsby
+
+\item Monday, 7 Nov: Carto and The Great Gatsby
+
+\item Wednesday, 9 Nov: Election Day debriefing
+
+\item Monday, 14 Nov: Carto and The Great Gatsby
+
+\end{itemize}
+
+\section{4. The New Novels, The New Systems}
+\label{4.thenewnovelsthenewsystems}
+
+The semester closes with reading two new(er) novels that invite a systematic,
+totalized reading. We close with student presentations on their final projects.
+
+\begin{itemize}
+\item Wednesday, 16 Nov: Novel presentations begin, Pynchon, chs. 1–3.
+
+\item Monday, 21 Nov: Pynchon, chs. 4 \textbackslash{}\& 5.
+
+\item Wednesday, 23 Nov: No Class.
+
+\item Monday, 28 Nov: Pynchon, ch. 6.
+
+\item Wednesday, 30 Nov: Spiotta, pts. 1 \textbackslash{}\& 2.
+
+\item Monday, 5 Dec: Spiotta, pts. 3 \textbackslash{}\& 4.
+
+\item Wednesday, 7 Dec: Spiotta, pts. 5–7.
+
+\item Monday, 12 Dec: Spiotta, pts. 8 \textbackslash{}\& 9.
+
+\item Wednesday, 14 Dec: Final presentations
+
+\end{itemize}
+
+ \newpage 
+
+\chapter{Calendar}
+\label{calendar}
+
+\begin{table}[htbp]
+\begin{minipage}{\linewidth}
+\setlength{\tymax}{0.5\linewidth}
+\centering
+\small
+\begin{tabulary}{\textwidth}{@{}LLL@{}} \toprule
+Week&Monday&Wednesday\\
+\midrule
+1. 5.9, 7.9&\textbf{No class}&Introductions, Massumi\\
+2. 12.9, 14.9&Fitzgerald&Fitzgerald\\
+3. 15.3, 17.3&\multicolumn{2}{l}{\textbf{Spring Break}}\\
+
+\midrule
+4. 20.3, 22.3&Unit 2&\texttt{electric boogaloo}\\
+
+\bottomrule
+
+\end{tabulary}
+\end{minipage}
+\end{table}
+
+\input{latex-support/footer.tex}
+
+\end{document}
