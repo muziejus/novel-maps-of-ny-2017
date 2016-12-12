@@ -1,6 +1,6 @@
 # English 101 2017
 
-I am teaching “Introduction to the Study of Literature,” or “English 101” in
+I am teaching “Introduction to the Study of Literature,” or “English 101,” in
 the Spring of 2017 at NYU. 
 
 This repository is an attempt to use
