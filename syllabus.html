@@ -29,7 +29,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-bottom">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbarSpy" data-toggle="collapse" type="button">
+      <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
         <span class="sr-only">Toggle Navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -37,7 +37,7 @@
       </button>
       <a class="navbar-brand" href="#">Set in html-footer metadata</a>
     </div>
-    <div class="collapse navbar-collapse">
+    <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-left navbar-nav" id="navbarSpy">
         <li class="dropdown"><a aria-expanded="false" aria-haspopup="true"
     class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Meta-info<span class="caret"></span></a>
@@ -52,11 +52,13 @@
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
+            <li><a href="#plenarysessions">Plenary sessions</a></li>
             <li><a href="#participation">Participation</a></li>
-            <li><a href="#criticalpresentation">Critical Presentation</a></li>
-            <li><a href="#digitalpresentation">Digital Presentation</a></li>
-            <li><a href="#novelpresentation">Novel Presentation</a></li>
-            <li><a href="#finalproject">Final project</a></li>
+            <li><a href="#firstessay">First essay</a></li>
+            <li><a href="#secondessay">Second essay</a></li>
+            <li><a href="#secondessayrewrite">Second essay rewrite</a></li>
+            <li><a href="#presentation">Presentation</a></li>
+            <li><a href="#finalessay">Final essay</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -66,7 +68,6 @@
           <ul class="dropdown-menu">
             <li><a href="#assignments">Assignments</a></li>
             <li><a href="#attendance">Attendance</a></li>
-            <li><a href="#digitallearning">Digital learning</a></li>
             <li><a href="#electronics">Electronics</a></li>
             <li><a href="#communication">Communication</a></li>
             <li><a href="#disabilities">Disabilities</a></li>
@@ -104,33 +105,36 @@
 
 <h2 id="coursedescription">Course description</h2>
 
-<p>Over the past decade, literary study has become increasingly, reflexively
-interested in investigating the methods that it generates. At the same time,
-the digital humanities have emerged to claim a part of growing English
-departments. This course serves as an introduction to both of these currents in
-contemporary literary study. We will consider both familiar forms of reading as
-well as new, different forms that have broadened the way we interpret texts,
-and we will then look to how the digital humanities, as an especially
-method-oriented subfield, brings these questions of interpretation into even
-sharper contrast. Students will, then, see how debates about interpretation are
-lived and experienced within the digital humanities, both in theory and
-practice. Finally, students will learn to use digital methodologies in their
-interpretation, with possible projects in textual analysis, topic modeling, and
-geospatial analysis.</p>
+<p>Designed for English majors and minors, this course examines three intertwined
+questions: What is literature? Why do we read it? and How do we read it? As we
+will see, any attempt to answer these three questions will take us through
+various historical, spatial, political, and cultural fields. More precisely,
+the course will follow a path of engaging with primarily American,
+English-language aesthetic objects (poems, plays, novels, short stories,
+essays—while also incorporating films and other, “newer” technologies of
+aesthetic production) alongside a wider scholarly apparatus that has tried to
+codify, restrict, (de)politicize, champion, demystify, appropriate, critique,
+quantify, or simply complicate those objects. In so doing, we will see how the
+study of literature has several histories, geographies, and politics in its
+relationship with various cultures.</p>
 
 <h2 id="goalsofthecourse">Goals of the course</h2>
 
 <ul>
-<li>to introduce you to historical trends in literary criticism from the 20th and 21st centuries;</li>
+<li>to introduce you to
+
+<ul>
+<li>the history of literature as an object of study;</li>
+<li>tools and resources provided by the university for literary study;</li>
+</ul></li>
 <li>to develop skills in
 
 <ul>
-<li>reading analytical and literary texts;</li>
-<li>writing analyses that are cogent and syncretic, making use of the various methods on hand;</li>
-<li>creating (as well as using and distributing) geospatial datasets,
- GISes, and cartographic visualizations of the former;</li>
-<li>creating (as well as using and distributing) corpora in Python;</li>
-<li>using <code>NLTK</code> to investigate the properties of a text;</li>
+<li>reading literary texts carefully and analytically;</li>
+<li>summarizing and presenting analytical texts in class;</li>
+<li>writing short analytical essays about literary texts;</li>
+<li>revising writing;</li>
+<li>writing analyses that are cogent and syncretic, making use of the various methods on hand; and</li>
 </ul></li>
 <li>to develop, refine, and present scholarship that exists, spatially and
 temporally, beyond the boundaries of the course.</li>
@@ -139,17 +143,32 @@ temporally, beyond the boundaries of the course.</li>
 <h2 id="books">Books</h2>
 
 <ul>
-<li><p>F. Scott Fitzgerald, <em>The Great Gatsby</em>, 1925 (Scribner) <a href="http://www.strandbooks.com/strand%2D80/great%2Dgatsby/_/searchString/gatsby">Strand</a></p></li>
-<li><p>Thomas Pynchon, <em>The Crying of Lot 49</em>, 1965 (Harper Perennial) <a href="http://www.strandbooks.com/fiction/crying%2Dof%2Dlot%2D49%2D1/_/searchString/crying%20of%20lot%2049">Strand</a></p></li>
+<li>Coovadia, Imraan. <em>Green-Eyed Thieves</em> (2011)</li>
+<li>Johnson, James Wheldon. <em>The Autobiography of an Ex-Colored Man</em> (1912/1927)</li>
+<li>Kempe, Margery. <em>The Book of Margery Kempe</em> (c. 1440)</li>
+<li>Morraga, Cherrié. <em>Loving in the War Years: Lo que nunca pasó por sus labios</em> (1983)</li>
+<li>Patel, Shailja. <em>Migritude</em> (2010)</li>
+<li>Rankine, Claudia. <em>Don’t Let Me Be Lonely: An American Lyric</em> (2004)</li>
+<li>Roy, Arundhati. <em>Capitalism: A Ghost Story</em> (2014)</li>
+<li>Shakespeare, William. <em>The Tempest</em> (c. 1611) (Arden edition)</li>
 </ul>
 
 <h2 id="courserequirementspolicies">Course requirements &amp; policies</h2>
 
 <h3 id="assessment">Assessment</h3>
 
+<h4 id="plenarysessions">Plenary sessions</h4>
+
+<p>English 101 features four plenary sessions led by four faculty members in the
+English department. With these sessions, the faculty will give you the
+opportunity to be exposed both to the diverse set of interests that occupy our
+department as well as the diverse faculty itself. Each faculty member will be
+presenting on work that we will have read in class. The plenaries are scheduled
+for Thursdays and Fridays, as noted below. </p>
+
 <h4 id="participation">Participation</h4>
 
-<p>The success of any course is directly related to the levels of engagement
+<p><strong>20%</strong> The success of any course is directly related to the levels of engagement
 brought both by the instructor and the students. As such, class participation
 is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
@@ -164,6 +183,8 @@ documentation. Repeated unexcused absence quickly gobbles up the class
 participation component of the grade and begins to threaten your ability to
 even <em>pass</em> the course.</p>
 
+<p>Plenaries <em>cannot be missed</em>.</p>
+
 <p>Because this course is discussion-oriented, active participation means, most
 importantly, participating in the discussions in class. But useful and engaged
 participation in discussions also depends on good preparation, which includes
@@ -174,33 +195,42 @@ comparison/contrast between passages to another work, or a useful parallel to
 something outside the coursework. Come to class with questions, in other words,
 and writing them out as mini-prompts may be especially helpful.</p>
 
-<h4 id="criticalpresentation">Critical presentation</h4>
+<h4 id="firstessay">First essay</h4>
 
-<p>While reading the critical history of <em>The Great Gatsby</em>, each of you
-will give a short (8–10 minutes) presentation that introduces either one of the
-essays cited in the reading for that day or an essay you have found via JSTOR
-contemporary with that day’s reading. You will get to sign up for a time period
-on the first day of class. The presentation will also have a short (1 page)
-written component that you will turn in. The goal of the presentation is to
-introduce new knowledge to the class that it has not already had, thereby
-facilitating that day’s discussion. This presentation cannot make use of the
-computer in the classroom, and you should email the subject of your
-presentation to me 24 hours in advance.</p>
+<p><strong>15%</strong> The first essay will be in response to a prompt. It should be 900–1200 words
+long.</p>
 
-<h4 id="digitalpresentation">Digital presentation</h4>
+<h4 id="secondessay">Second essay</h4>
 
-<p>During the digital section of the course, each of you will give a short (8–10
-minutes) presentation on a digital tool or project you have found online,
-possibly even making some quick use of the <em>Gatsby</em> dataset. The tool or
-project should be appropriate to that day’s work, meaning statistical analysis
-tools and projects fit for the <code>Python</code> days, while spatial analysis
-tools and projects fit better for the <code>Carto</code> days. You can sign up
-on the first day for these presentations. Your presentation will also have a
-short (1 page) written component that you will turn in. The goal of the
-presentation is to introduce a new form of digital reading to the class that
-may spark new ideas for final projects. This presentation can make use of the
-computer in the classroom, and you should email the subject of your
-presentation to me 24 hours in advance.</p>
+<p><strong>10%</strong> The second essay features a reading of a passage from a work we have read for
+class. You should show the passage’s importance to the text as a whole. This
+essay should also be 900–1200 words long.</p>
+
+<h4 id="secondessayrewrite">Second essay rewrite</h4>
+
+<p><strong>10%</strong> The rewrite of the second essay is an opportunity to build upon the
+second essay by incorporating some of the additional texts you have been
+exposed to in the presentations. This rewrite should be 1200–1500 words
+long.</p>
+
+<h4 id="presentation">Presentation</h4>
+
+<p><strong>20%</strong> Throughout the semester, secondary texts have been paired with with primary
+reading for that day. Once during the semester, you will have to choose a
+secondary text and present on it. The presentation should be 10–15 minutes
+long. It should provide context for the secondary text itself, a summary of the
+secondary text, and close with suggestions towards how the secondary text
+enhances our understanding of that day’s primary text. The presentation will be
+accompanied by a short document laying out the same information as the
+presentation did.</p>
+
+<h4 id="finalessay">Final essay</h4>
+
+<p><strong>25%</strong> The final essay is a critical work on one of the primary texts we have
+ read. It should build on the reading techniques from the first two essays
+ as well as make use of one of the secondary texts from the course.
+ Additionally, it should include some added research, aided by the skills
+ learned at the library. </p>
 
 <h3 id="policies">Policies</h3>
 
@@ -217,11 +247,6 @@ the dates noted in the syllabus. </p>
 be penalized. I will give you feedback and will happily discuss any work with
 you, but grades should be considered final.</p>
 
-<p>Additionally, grading is variable based on what you feel your strengths are.
-Each assignment will be worth at least 16% of your final grade, but the upper
-limit of the grade is set by you. You should email me how you slice up the pie
-by the end of October.</p>
-
 <h4 id="attendance">Attendance</h4>
 
 <p>As indicated above, attendance is required. Three absences will be excused
@@ -230,26 +255,19 @@ tactically. Catching up is your responsibility.</p>
 
 <p>Subsequent absence requires formal documentation. Otherwise it begins to harm
 your final grade. Though class participation is only part of the final grade,
-extreme absenteeism (more than six meetings missed) may put your ability to
+extreme absenteeism (more than six meetings missed) will put your ability to
 pass the course at risk.</p>
 
 <p>Please show up on time to class, as well.</p>
 
-<h4 id="digitallearning">Digital Learning</h4>
-
-<p>I will be exposing you to a lot of new tools and concepts. Our class will have
-digitally-focused classes in our classroom, where we will learn new skills.
-These skills are difficult, and I will try to help as much as possible.</p>
-
 <h4 id="electronics">Electronics</h4>
 
-<p>Despite the presence of the digital, especially as the class gets deeper into
-the semester, our time in class is meant as a sanctuary from the distractions
-of the rest of the world. Furthermore, the class relies on discussion and
-engagement, and the front of a laptop screen is a brilliant shield behind which
-a student can hide, even unintentionally. During our meetings, then, there can
-be no use of electronic devices. Please also set whatever devices you have but
-aren’t using to silent mode.</p>
+<p>Our time in class is meant as a sanctuary from the distractions of the rest of
+the world. Additionally, our class relies on discussion and engagement, and the
+front of a laptop screen is a brilliant shield behind which a student can hide,
+even unintentionally. During our meetings, then, there can be no use of
+electronic devices. Please also set whatever devices you have but aren’t using
+to silent mode.</p>
 
 <h4 id="communication">Communication</h4>
 
@@ -258,7 +276,7 @@ depends on clear communication in both directions. If you have questions,
 comments, or concerns, the best course of action is to come visit me during my
 office hours as noted at the top of this page. If your questions, etc., cannot
 wait until then, then clearly you can also email me. I should respond within
-48 hours.</p>
+48 hours, but please write again if I do not.</p>
 
 <p>This is a new course, meaning that there will be even more unfinished edges
 ready to scratch someone than in a typical course. We have a collective goal of
@@ -289,7 +307,14 @@ intention. Know what it is, and don’t do it.</p>
 
 <h4 id="syllabus">Syllabus</h4>
 
-<p>The handsome, printer-friendly <code>pdf</code> version of the syllabus is available <a href="https://github.com/muziejus/does-it-work/blob/master/syllabus.pdf">here</a>.</p>
+<p>This syllabus is available at http://moacir.com/courses-nyu/english-101-2017. A pdf version is available at
+http://moacir.com/courses-nyu/english-101-2017/syllabus.pdf. The source code and documentation for this document
+is available at http://github.com/muziejus/english-101-2017. The syllabus is © 2016, Moacir P. de Sá Pereira. It is
+licensed as Creative Commons 3.0 by-nc-sa, giving you permission to share and
+alter it in any way, as long as it is for non-commercial purposes, maintains
+the license, and gives proper attribution. Further information regarding the
+license, the history of the document, and influences can be viewed at the
+Github repository.</p>
 
 <!-- \newpage -->
 
