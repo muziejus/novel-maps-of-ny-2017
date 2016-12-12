@@ -1,15 +1,12 @@
-Over the past decade, literary study has become increasingly, reflexively
-interested in investigating the methods that it generates.  At the same time,
-the digital humanities have emerged to claim a part of growing English
-departments. This course serves as an introduction to both of these currents in
-contemporary literary study. We will consider both familiar forms of reading as
-well as new, different forms that have broadened the way we interpret texts,
-and we will then look to how the digital humanities, as an especially
-method-oriented subfield, brings these questions of interpretation into even
-sharper contrast. Students will, then, see how debates about interpretation are
-lived and experienced within the digital humanities, both in theory and
-practice. Finally, students will learn to use digital methodologies in their
-interpretation, with possible projects in textual analysis, topic modeling, and
-geospatial analysis.
-
-
+Designed for English majors and minors, this course examines three intertwined
+questions: What is literature? Why do we read it? and How do we read it? As we
+will see, any attempt to answer these three questions will take us through
+various historical, spatial, political, and cultural fields. More precisely,
+the course will follow a path of engaging with primarily American,
+English-language aesthetic objects (poems, plays, novels, short stories,
+essays—while also incorporating films and other, “newer” technologies of
+aesthetic production) alongside a wider scholarly apparatus that has tried to
+codify, restrict, (de)politicize, champion, demystify, appropriate, critique,
+quantify, or simply complicate those objects. In so doing, we will see how the
+study of literature has several histories, geographies, and politics in its
+relationship with various cultures.
