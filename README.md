@@ -32,6 +32,7 @@ git clone https://github.com/muziejus/english-101-2017.git
 cd english-101-2017
 mmd syllabus.mmd
 mmd2tex syllabus.mmd
+sh post-mmd-process.sh
 xelatex syllabus.tex
 ```
 
@@ -45,6 +46,10 @@ brew install --HEAD multimarkdown
 
 A new version of `mmd` is required, because functionality like `html footer` is
 a recent addition.
+
+`post-mmd-process.sh` is a shell script that adds a little more post-processing
+to the tex file, like suppressing section numbering and cleaning up
+MultiMarkdown’s best guess at how to handle slashes.
 
 `xelatex` is [XeLaTeX](https://en.wikipedia.org/wiki/XeTeX). It is installed as
 part of [TeX Live](https://www.tug.org/texlive/) and/or
