@@ -19,7 +19,7 @@ setting all of the metadata and building up the structure of the syllabus. Very
 little actual text is in this file, as that is all delegated to the files in
 the folder `sections/`.
 
-The metadata includes calls to three LaTeX files (available in
+The metadata include calls to three LaTeX files (available in
 `latex-support/`), but it also has an `html header` and `html footer` set,
 which provide html-specific text that gets skipped for LaTeX. Most importantly,
 at the end of `html footer`, there are a few jQuery commands that go back
@@ -86,23 +86,18 @@ formalized it.
 
 ## Issues / roadmap
 
-It feels like some kind of post-mmd parsing will have to be done. Urls defined
-in the metadata turn into gibberish in `mmd2tex`, the processor doesn’t skip
-the line to transclude the navbar file, and there are a few other changed I
-would like to make to the how the final pdf version renders. The html side was
-easy. This, though…
+This works exactly as I want it to. Any more messing about will simply go into
+the post-processing script, possibly including a wrapper script that performs
+all of the commands. 
 
-But enough hacking’s gone on here for me to be able to fill out the syllabus
-with the actual plans for the actual course!
-
-Additionally, the html file should be `index.html`, so that this repository can
-be served by github pages, which would also let me host the pdf syllabus that
-way.
+The Bibliography support can be formalized, but as far as I can tell, there’s
+no clean way to make an html bibliography out of BibTeX/Biber, so it might get
+put off for a later time.
 
 ## Credits
 
-This is a large reworking of a previous course I taught at NYU, “[Does It Work?](https://github.com/muziejus/does-it-work)” in
-autumn 2016.
+This is a large reworking of a previous syllabus for a course I taught at NYU,
+“[Does It Work?](https://github.com/muziejus/does-it-work)” in autumn 2016.
 
 In order to get the syllabus to sound “NYUish,” I copied (sometimes very
 heavily) from a syllabus prepared by my colleague at NYU, [Jini
