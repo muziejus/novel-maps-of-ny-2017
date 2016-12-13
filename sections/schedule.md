@@ -14,7 +14,7 @@ can describe a person in the world and how that has changed over time.
 * Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
 * Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
 * Monday, 13 Feb: **Library visit**
-* Wednesday, 15 Feb: _The Tempest_ through Act III. Presentation: Foucault, “Preface” and “Las Meninas.” **First esay due**.
+* Wednesday, 15 Feb: _The Tempest_ through Act III. Presentation: Foucault, “Preface” and “Las Meninas.” **First essay due**.
 * Monday, 20 Feb: **No class**
 * Wednesday, 22 Feb: _The Tempest_ to end. Presentation: “Theses on the Philosophy of History.”
 
