@@ -20,7 +20,7 @@ text for which a student will be presenting that day.
 27 Mar | Patel | Patel | Watson plenary | Watson plenary; **2nd essay rewrite due** |
 
 3 Apr | Hughes & McKay; P: Césaire | Brooks; P: DuBois 2 |||
-10 Apr | Morraga | Morraga; P: Anzaldúa |||
+10 Apr | Moraga | Moraga; P: Anzaldúa |||
 17 Apr | Rankine | Rankine; P: Fields |||
 24 Apr | Row | Row | Row plenary | Row plenary |
 
