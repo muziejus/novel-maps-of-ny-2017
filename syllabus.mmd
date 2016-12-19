@@ -1,6 +1,7 @@
 ---
 latex input: latex-support/first-header.tex
 title: Introduction to the Study of Literature
+slug: English 101
 instructor: Moacir P. de Sá Pereira
 instructor url: http://moacir.com
 instructor email: blah@blah.com
@@ -31,13 +32,11 @@ html footer: </div> <!--closes main container-fluid-->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <script>$('table').addClass("table table-hover");
     $('body').attr("data-spy", "scroll").attr("data-target", "#navbarSpy").scrollspy({target: "#navbarSpy"});
-    $('header').html("<h1>Introduction to the Study of Literature (English 101)</h1><p>Moacir P. de Sá Pereira (moacir at nyu)</p><p>Spring 2016, ARC LL03, MW 15:30–16:45</p><p>Office Hours: 244 Greene, 506, T 15:00–16:30</p>");
-    $('#instructor').attr("href", "http://moacir.com").text("© 2016 Moacir P. de Sá Pereira");
-    $('.navbar-brand').text("English 101");
     </script>
 
 <!-- \iffalse -->
-{{navbar.*}}
+{{navbar.html}}
+{{header.md}}
 <!-- \fi -->
 
 ## Course description
@@ -80,4 +79,6 @@ influences can be viewed at the Github repository.
 ## Calendar
 {{calendar.md}}
 
+
+{{links.md}}
 
