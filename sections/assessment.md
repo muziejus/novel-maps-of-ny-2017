@@ -9,13 +9,12 @@ for Thursdays and Fridays, as noted below.
 
 #### Participation
 
-**20%** The success of any course is directly related to the levels of engagement
+**25%** The success of any course is directly related to the levels of engagement
 brought both by the instructor and the students. As such, class participation
 is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
-participation both inside the classroom and outside. No “passive consumers,” as
-a professor of mine put it. 
-  
+participation both inside the classroom and outside.  
+
 You can miss up to three meetings without penalty, and you can use these
 opportunities tactically, to provide space and time to either fulfill other
 obligations or recuperate from the previous night. I don’t care why you didn’t
@@ -26,15 +25,15 @@ even *pass* the course.
 
 Plenaries *cannot be missed*.
 
-Because this course is discussion-oriented, active participation means, most
-importantly, participating in the discussions in class. But useful and engaged
-participation in discussions also depends on good preparation, which includes
-doing the reading for the course. I encourage (but will not collect) you to
-think of one or two points of entry into a discussion of a text for each
-meeting. This could be a point of confusion (don’t be shy!), a point of
-comparison/contrast between passages to another work, or a useful parallel to
-something outside the coursework. Come to class with questions, in other words,
-and writing them out as mini-prompts may be especially helpful.
+In a dicussion-oriented class, “active participation” involves the following
+components. All of these are necessary to receive maximum points for
+participation:
+
+* Being in class on time,
+* Arriving having done the reading for that day,
+* Having considered the reading and found points of entry into class discussion via questions and specific passages,
+* Participating in class discussion in ways that build upon contributions from others,
+* And refraining from the use of electronic devices.
 
 #### First essay
 
@@ -56,19 +55,22 @@ long.
 
 #### Presentation
 
-**20%** Throughout the semester, secondary texts have been paired with with primary
-reading for that day. Once during the semester, you will have to choose a
-secondary text and present on it. The presentation should be 10–15 minutes
-long. It should provide context for the secondary text itself, a summary of the
-secondary text, and close with suggestions towards how the secondary text
-enhances our understanding of that day’s primary text. The presentation will be
-accompanied by a short document laying out the same information as the
-presentation did.
+**20%** Throughout the semester, secondary texts have been paired with with
+primary reading for that day. At the beginning of the semester, you will
+choose a secondary text and present on it later in the semester. The
+presentation should be 10–15 minutes long. It should provide context for
+the secondary text itself, a summary of the secondary text, and close with
+suggestions towards how the secondary text enhances our understanding of
+that day’s primary text. Slides, etc., are not necessary. The presentation
+will be accompanied by a short document (800 words) laying out the same
+information as the presentation did to be turned in at the same time as the
+presentation.
 
 #### Final essay
 
-**25%** The final essay is a critical work on one of the primary texts we have
+**20%** The final essay is a critical work on one of the primary texts we have
     read. It should build on the reading techniques from the first two essays
     as well as make use of one of the secondary texts from the course.
     Additionally, it should include some added research, aided by the skills
-    learned at the library. 
+    learned at the library. It should make use of the writing strategies
+    provided by Graff and Birkenstein. This essay should be 1800–2200 words long.
