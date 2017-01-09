@@ -7,7 +7,7 @@ In the first section of this course, we begin by thinking about how literature
 can describe a person in the world and how that has changed over time.
 
 * Monday, 23 Jan: Introductions
-* Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 5. Presentation: DuBois, “Of our Spiritual Strivings.”
+* Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6. Presentation: DuBois, “Of our Spiritual Strivings.”
 * Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. 
 * Wednesday, 1 Feb: _The Book of Margery Kempe_ through ch. 33. Presentation: White, “Value of Narrativity in the Representation of Reality.”
 * Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. 
@@ -34,7 +34,7 @@ Next, we look to the role literature plays in the scope of (imperialist) war.
 
 What does it even mean to speak of “English” literature? Is this distinction important?
 
-* Monday, 20 Mar: _Green-Eyed Thieves_ through *x*. Presentation: Apter, “Global *Translatio*: The ‘Invention’ of Comparative Literature, Istanbul, 1933.”
+* Monday, 20 Mar: _Green-Eyed Thieves_ through *x*. Presentation: Cheah?
 * Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: Dimock, “Genre as World System: Epic and Novel on Four Continents.”
 * Monday, 27 Mar: _Migritude_ through *x*. 
 * Wednesday, 29 Mar: _Migritude_ to end.
@@ -49,7 +49,7 @@ Finally, how does the world reconstruct itself in an American milieu?
 * Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections).
 * Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
 * Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through *x*.
-* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Fields & Fields, “A Tour of Racecraft.”
+* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Baldwin? Freud?
 * Monday, 24 Apr: “Native Sons” & “A Confession.”
 * Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
 * Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**.

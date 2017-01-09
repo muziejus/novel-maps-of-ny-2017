@@ -21,7 +21,7 @@ text for which a student will be presenting that day.
 
 3 Apr | Hughes & McKay; P: Césaire | Brooks; P: DuBois 2 |||
 10 Apr | Moraga | Moraga; P: Anzaldúa |||
-17 Apr | Rankine | Rankine; P: Fields |||
+17 Apr | Rankine | Rankine; P:  |||
 24 Apr | Row | Row | Row plenary | Row plenary |
 
 1 May | Debrief | **No class** |||
