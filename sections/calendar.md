@@ -8,10 +8,10 @@ text for which a student will be presenting that day.
 23 Jan| Introductions | Johnson; P: DuBois 1 |||
 30 Jan | Johnson | Kempe; P: White |||
 6 Feb | Kempe | Kempe | Dinshaw plenary | Dinshaw plenary |
-13 Feb | Library visit| Shakespeare; P: Foucault; **1st essay due** |||
+13 Feb | Library visit; Graff & Birkenstein | Shakespeare; P: Foucault; **1st essay due** |||
 20 Feb | **No class** | Shakespeare; P: Benjamin |||
 
-27 Feb | Fallon | Klay | Deer plenary | Deer plenary |
+27 Feb | Fallon; Graff & Birkenstein | Klay | Deer plenary | Deer plenary |
 6 Mar | Dos Passos; P: Martí | Roy || **2nd essay due**|
 
 13 Mar | **Spring Break** ||||
