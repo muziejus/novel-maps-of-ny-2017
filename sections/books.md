@@ -1,4 +1,4 @@
-* Coovadia, Imraan. *Green-Eyed Thieves* (2011)
+* Coovadia, Imraan. *Green-Eyed Thieves* (2006)
 * Graff, Gerald and Cathy Birkenstein. *“They Say / I Say”: the Moves that Matter in Academic Writing”* (2014)
 * Johnson, James Weldon. *The Autobiography of an Ex-Colored Man* (1912) (Norton critical edition)
 * Kempe, Margery. *The Book of Margery Kempe* (c. 1440)
