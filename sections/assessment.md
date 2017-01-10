@@ -70,7 +70,12 @@ presentation.
 
 **20%** The final essay is a critical work on one of the primary texts we have
     read. It should build on the reading techniques from the first two essays
-    as well as make use of one of the secondary texts from the course.
-    Additionally, it should include some added research, aided by the skills
-    learned at the library. It should make use of the writing strategies
-    provided by Graff and Birkenstein. This essay should be 1800–2200 words long.
+    as well as make use of one of the secondary texts from the course.  A short
+    précis of the essay (up to 600 words) is due two weeks earlier. It should
+    be the essay in miniature—a prose outline, illustrating the essay’s
+    structure, context, and argument.
+
+Because of the expanded context and argument, the essay will include some added
+research, aided by the skills learned at the library. The strategies Graff and
+Birkenstein provide will help frame this context and build the argument.  The
+final version of the essay should be 1800–2200 words long.

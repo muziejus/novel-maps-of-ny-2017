@@ -52,7 +52,7 @@ Finally, how does the world reconstruct itself in an American milieu?
 * Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Baldwin? Freud?
 * Monday, 24 Apr: “Native Sons” & “A Confession.”
 * Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
-* Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**.
+* Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**. **Final précis due**.
 * Monday, 1 May: Debrief.
 * Wednesday, 3 May: **No class**.
 * Wednesday, 10 May: **Final essay due**.
