@@ -25,7 +25,7 @@ Next, we look to the role literature plays in the scope of (imperialist) war.
 * Monday, 27 Feb: “You Survived the War, Now Survive the Homecoming;” _They Say / I Say_ to p. 144.
 * Wednesday, 1 Mar: “Prayer in the Furnace” & “War Stories.”
 * Thursday, 2 Mar; Friday 3 Mar: Patrick Deer **plenary**.
-* Monday, 6 Mar: Selections from *U. S. A.*. Presentation: Martí, “Our America.”
+* Monday, 6 Mar: From *U. S. A.*: “Newsreel XIV,” “Emperor of the Caribbean,” “The Camera Eye (20),” “Newsreel XXII,” “The Camera Eye (30),” “Randolph Bourne,” “Newsreel XXIII,” “Newsreel XXIX,” “The Camera Eye (36),” “Meester Veelson,” “Newsreel XXX,” “Newsreel XXIV,” “The House of Morgan,” “Newsreel XXXV,” “The Camera Eye (39),” “Newsreel XLIII,” “The Body of an American,” “Newsreel LXVIII,” “The Camera Eye (51).” Presentation: Martí, “Our America.”
 * Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
 * Friday, 10 Mar: **Second essay due**.
 * Monday, 13 Mar: **Spring Break**
