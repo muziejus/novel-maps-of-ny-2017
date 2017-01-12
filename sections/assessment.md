@@ -31,7 +31,7 @@ participation:
 
 * Being in class on time,
 * Arriving having done the reading for that day,
-* Having considered the reading and found points of entry into class discussion via questions and specific passages,
+* Having considered the reading and found points of entry into class discussion via questions about specific passages,
 * Participating in class discussion in ways that build upon contributions from others,
 * And refraining from the use of electronic devices.
 
@@ -42,16 +42,18 @@ long.
 
 #### Second essay
 
-**10%** The second essay features a reading of a passage from a work we have read for
-class. You should show the passage’s importance to the text as a whole. This
-essay should also be 900–1200 words long.
+**10%** The second essay features a reading of a passage from a work we have
+read for class. You should show the passage’s importance to the text as a
+whole. This essay should also be 900–1200 words long. It should also
+include, marked on the page, the various “templates” (in the Graff and
+Birkenstein sense) you make use of.
 
 #### Second essay rewrite
 
 **10%** The rewrite of the second essay is an opportunity to build upon the
 second essay by incorporating some of the additional texts you have been
 exposed to in the presentations. This rewrite should be 1200–1500 words
-long.
+long, and it should also feature the aforementioned templates.
 
 #### Presentation
 
