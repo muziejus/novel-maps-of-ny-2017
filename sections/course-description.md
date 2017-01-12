@@ -4,8 +4,7 @@ will see, any attempt to answer these three questions will take us through
 various historical, spatial, political, and cultural fields. More precisely,
 the course will follow a path of engaging with primarily American,
 English-language aesthetic objects (poems, plays, novels, short stories,
-essays—while also incorporating films and other, “newer” technologies of
-aesthetic production) alongside a wider scholarly apparatus that has tried to
+essays) alongside a wider scholarly apparatus that has tried to
 codify, restrict, (de)politicize, champion, demystify, appropriate, critique,
 quantify, or simply complicate those objects. In so doing, we will see how the
 study of literature has several histories, geographies, and politics in its
