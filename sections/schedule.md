@@ -13,7 +13,7 @@ can describe a person in the world and how that has changed over time.
 * Monday, 23 Jan: Introductions
 * Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6.
 * Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. Presentation: Du Bois, “Of our Spiritual Strivings” and “The Sorrow Songs.”
-* Wednesday, 1 Feb: From _S/Z_†: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
+* Wednesday, 1 Feb: From _S/Z_: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
 * Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. Presentation: White, “Value of Narrativity in the Representation of Reality.” 
 * Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
 * Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
@@ -48,7 +48,7 @@ What does it even mean to speak of “English” literature? Is this distinction
 
 Finally, how does the world reconstruct itself in an American milieu?
 
-* Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.”
+* Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “If We Must Die,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.”
 * Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “The Discovery of What It Means to Be an American.”
 * Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections).
 * Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
