@@ -5,20 +5,24 @@ text for which a student will be presenting that day.
 
 | Week | Monday | Wednesday | Thursday | Friday |
 -------| ------ | --------- | -------- | ------ |
+*Who Is It?* |||||
 23 Jan| Introductions | Johnson |||
 30 Jan | Johnson; P: Du Bois | Barthes & Kempe; |||
 6 Feb | Kempe; P: White | Kempe | Dinshaw plenary | Dinshaw plenary |
 13 Feb | Library visit; Graff & Birkenstein | Shakespeare; P: Foucault; **1st essay due** |||
 20 Feb | **No class** | Shakespeare; P: Benjamin |||
 
+*Life during Wartime* |||||
 27 Feb | Fallon; Graff & Birkenstein | Klay | Deer plenary | Deer plenary |
 6 Mar | Dos Passos; P: Martí | Roy || **2nd essay due**|
 
 13 Mar | **Spring Break** ||||
 
+*Around the World* |||||
 20 Mar | Coovadia; P: Dimock | Coovadia; P: Cheah |||
 27 Mar | Patel | Patel | Watson plenary | Watson plenary; **2nd essay rewrite due** |
 
+*Who Will Survive in America?* |||||
 3 Apr | Hughes & McKay; P: Césaire | Brooks; P: Baldwin |||
 10 Apr | Moraga | Moraga; P: Anzaldúa |||
 17 Apr | Rankine; P: Cheng | Rankine; P: Berlant |||
