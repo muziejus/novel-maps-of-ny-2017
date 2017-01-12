@@ -1,5 +1,9 @@
-Readings that are not the four books listed above will be available as pdfs
-or by other means. See the list of references at the end for details.
+Required readings indicated with quotation marks (“”) will be available as
+pdfs. *The should be printed out for use in class*. The texts for
+presentations, save the Du Bois, are also available as pdfs.
+
+The list of references at the end of the pdf version of the syllabus provides
+bibliographic details for all the texts for the course.
 
 ### 1. Who is it?
 
@@ -9,7 +13,7 @@ can describe a person in the world and how that has changed over time.
 * Monday, 23 Jan: Introductions
 * Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6.
 * Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. Presentation: DuBois, “Of our Spiritual Strivings” and “The Sorrow Songs.”
-* Wednesday, 1 Feb: From _S/Z_: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
+* Wednesday, 1 Feb: From _S/Z_†: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
 * Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. Presentation: White, “Value of Narrativity in the Representation of Reality.” 
 * Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
 * Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
