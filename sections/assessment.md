@@ -25,7 +25,7 @@ even *pass* the course.
 
 Plenaries *cannot be missed*.
 
-In a dicussion-oriented class, “active participation” involves the following
+In a discussion-oriented class, “active participation” involves the following
 components. All of these are necessary to receive maximum points for
 participation:
 
