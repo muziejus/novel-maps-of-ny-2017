@@ -1,5 +1,5 @@
 Required readings indicated with quotation marks (“”) will be available as
-pdfs. *The should be printed out for use in class*. The texts for
+pdfs. *They should be printed out for use in class*. The texts for
 presentations, save the Du Bois, are also available as pdfs.
 
 The list of references at the end of the pdf version of the syllabus provides
