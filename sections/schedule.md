@@ -10,7 +10,7 @@ bibliographic details for all the texts for the course.
 In the first section of this course, we begin by thinking about how literature
 can describe a person in the world and how that has changed over time.
 
-* Monday, 23 Jan: Introductions
+* Monday, 23 Jan: Introductions.
 * Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6.
 * Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. Presentation: Du Bois, “Of our Spiritual Strivings” and “The Sorrow Songs.”
 * Wednesday, 1 Feb: From _S/Z_: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
@@ -19,7 +19,7 @@ can describe a person in the world and how that has changed over time.
 * Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
 * Monday, 13 Feb: **Library visit**; _They Say / I Say_ to p. 105.
 * Wednesday, 15 Feb: _The Tempest_ through Act III. Presentation: Foucault, “Preface” and “Las Meninas.” **First essay due**.
-* Monday, 20 Feb: **No class**
+* Monday, 20 Feb: **No class**.
 * Wednesday, 22 Feb: _The Tempest_ to end. Presentation: “Theses on the Philosophy of History.”
 
 ### 2. Life during wartime
@@ -32,7 +32,7 @@ Next, we look to the role literature plays in the scope of war.
 * Monday, 6 Mar: From *U. S. A.*: “Newsreel XIV,” “Emperor of the Caribbean,” “The Camera Eye (20),” “Newsreel XXII,” “The Camera Eye (30),” “Randolph Bourne,” “Newsreel XXIII,” “Newsreel XXIX,” “The Camera Eye (36),” “Meester Veelson,” “Newsreel XXX,” “Newsreel XXIV,” “The House of Morgan,” “Newsreel XXXV,” “The Camera Eye (39),” “Newsreel XLIII,” “The Body of an American,” “Newsreel LXVIII,” “The Camera Eye (51).” Presentation: Martí, “Our America.”
 * Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
 * Friday, 10 Mar: **Second essay due**.
-* Monday, 13 Mar: **Spring Break**
+* Monday, 13 Mar: **Spring Break**.
 
 ### 3. Around the world
 
