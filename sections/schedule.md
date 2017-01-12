@@ -30,7 +30,7 @@ Next, we look to the role literature plays in the scope of war.
 * Friday, 10 Mar: **Second essay due**.
 * Monday, 13 Mar: **Spring Break**
 
-### 3. Around the World
+### 3. Around the world
 
 What does it even mean to speak of “English” literature? Is this distinction important?
 
