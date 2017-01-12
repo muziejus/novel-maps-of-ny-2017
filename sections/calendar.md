@@ -5,9 +5,9 @@ text for which a student will be presenting that day.
 
 | Week | Monday | Wednesday | Thursday | Friday |
 -------| ------ | --------- | -------- | ------ |
-23 Jan| Introductions | Johnson; P: DuBois 1 |||
-30 Jan | Johnson | Kempe; P: White |||
-6 Feb | Kempe | Kempe | Dinshaw plenary | Dinshaw plenary |
+23 Jan| Introductions | Johnson |||
+30 Jan | Johnson; P: Du Bois | Barthes & Kempe; |||
+6 Feb | Kempe; P: White | Kempe | Dinshaw plenary | Dinshaw plenary |
 13 Feb | Library visit; Graff & Birkenstein | Shakespeare; P: Foucault; **1st essay due** |||
 20 Feb | **No class** | Shakespeare; P: Benjamin |||
 
@@ -16,12 +16,12 @@ text for which a student will be presenting that day.
 
 13 Mar | **Spring Break** ||||
 
-20 Mar | Coovadia; P: Apter | Coovadia; P: Dimock |||
+20 Mar | Coovadia; P: Dimock | Coovadia; P: Cheah |||
 27 Mar | Patel | Patel | Watson plenary | Watson plenary; **2nd essay rewrite due** |
 
-3 Apr | Hughes & McKay; P: Césaire | Brooks; P: DuBois 2 |||
+3 Apr | Hughes & McKay; P: Césaire | Brooks; P: Baldwin |||
 10 Apr | Moraga | Moraga; P: Anzaldúa |||
-17 Apr | Rankine | Rankine; P:  |||
+17 Apr | Rankine; P: Cheng | Rankine; P: Berlant |||
 24 Apr | Row | Row | Row plenary | Row plenary; **Final précis due** |
 
 1 May | Debrief | **No class** |||
