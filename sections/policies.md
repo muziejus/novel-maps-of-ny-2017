@@ -6,7 +6,7 @@ assignment, you should ask for clarification early. The assignments are due on
 the dates noted in the syllabus. 
   
 The writing can be submitted electronically, _except_ for the second essay and
-its rewrite, which much be submitted in paper form. I prefer 2up (two pages per
+its rewrite, which must be submitted in paper form. I prefer 2up (two pages per
 sheet), two-sided printing. Documents should be formatted sanely: 12pt type and
 double-spaced.
   
@@ -41,7 +41,7 @@ to silent mode.
 Communication is vitally important to the pedagogical process, and this course
 depends on clear communication in both directions. If you have questions,
 comments, or concerns, the best course of action is to come visit me during my
-office hours as noted at the top of this page. If your questions, etc., cannot
+office hours as noted at the top of this document. If your questions, etc., cannot
 wait until then, then clearly you can also email me.  I should respond within
 48 hours, but please write again if I do not.
 

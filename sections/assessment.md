@@ -60,22 +60,27 @@ long, and it should also feature the aforementioned templates.
 **20%** Throughout the semester, secondary texts have been paired with with
 primary reading for that day. At the beginning of the semester, you will
 choose a secondary text and present on it later in the semester. The
-presentation should be 10–15 minutes long. It should provide context for
-the secondary text itself, a summary of the secondary text, and close with
-suggestions towards how the secondary text enhances our understanding of
-that day’s primary text. Slides, etc., are not necessary. The presentation
-will be accompanied by a short document (800 words) laying out the same
-information as the presentation did to be turned in at the same time as the
-presentation.
+presentation should be 10–15 minutes long. A good presentation will provide
+context for the secondary text itself, feature a thorough summary of the
+secondary text and its argument, and close with links between the secondary
+text and that day’s primary text. Slides, etc., are not necessary.  The
+presentation will be accompanied by a short document (800 words) laying out
+the same information as the presentation did to be turned in at the same
+time as the presentation.
+
+The texts for the presentations will not be easy to read, understand, or even
+summarize. These presentations will, hence, require time to prepare. As with
+any assignment, make use of office hours to help clarify any questions you may
+have.
 
 #### Final essay
 
 **20%** The final essay is a critical work on one of the primary texts we have
-    read. It should build on the reading techniques from the first two essays
-    as well as make use of one of the secondary texts from the course.  A short
-    précis of the essay (up to 600 words) is due two weeks earlier. It should
-    be the essay in miniature—a prose outline, illustrating the essay’s
-    structure, context, and argument.
+read. It should build on the reading techniques from the first two essays
+as well as make use of at least one of the secondary texts from the course.
+A short précis of the essay (up to 600 words) is due two weeks earlier. It
+should be the essay in miniature—a prose outline, illustrating the essay’s
+structure, context, and argument.
 
 Because of the expanded context and argument, the essay will include some added
 research, aided by the skills learned at the library. The strategies Graff and
