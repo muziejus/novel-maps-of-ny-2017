@@ -39,7 +39,7 @@ Next, we look to the role literature plays in the scope of war.
 What does it even mean to speak of “English” literature? Is this distinction important?
 
 * Monday, 20 Mar: _Green-Eyed Thieves_ through p. 125. Presentation: Dimock, “Genre as World System: Epic and Novel on Four Continents.”
-* Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: 
+* Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: Cheah, “Missed Encounters: Cosmopolitanism, World Literature, and Postcoloniality.”
 * Monday, 27 Mar: _Migritude_ through p. 72. 
 * Wednesday, 29 Mar: _Migritude_ to end.
 * Thursday, 30 Mar; Friday, 31 Mar: Jini Kim Watson **plenary**. **Second essay rewrite due**.
@@ -52,8 +52,8 @@ Finally, how does the world reconstruct itself in an American milieu?
 * Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “The Discovery of What It Means to Be an American.”
 * Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections).
 * Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
-* Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through p. 59. Presentation: Cheng.
-* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Berlant.
+* Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through p. 59. Presentation: Cheng, “The Melancholy of Race.”
+* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Berlant “Slow Death (Sovereignty, Obesity, Lateral Agency).”
 * Monday, 24 Apr: “Native Sons” & “A Confession.”
 * Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
 * Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**. **Final précis due**.
