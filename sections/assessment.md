@@ -29,11 +29,11 @@ In a dicussion-oriented class, “active participation” involves the following
 components. All of these are necessary to receive maximum points for
 participation:
 
-* Being in class on time,
-* Arriving having done the reading for that day,
-* Having considered the reading and found points of entry into class discussion via questions about specific passages,
-* Participating in class discussion in ways that build upon contributions from others,
-* And refraining from the use of electronic devices.
+* being in class on time,
+* arriving having done the reading for that day,
+* having considered the reading and found points of entry into class discussion via questions about specific passages,
+* participating in class discussion in ways that build upon contributions from others, and
+* refraining from the use of electronic devices.
 
 #### First essay
 
