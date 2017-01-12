@@ -32,8 +32,9 @@ git clone https://github.com/muziejus/english-101-2017.git
 cd english-101-2017
 mmd syllabus.mmd
 mmd2tex syllabus.mmd
-sh post-mmd-process.sh
-xelatex syllabus.tex
+sh process-mmd.sh
+biber syllabus
+xelatex syllabus.tex ; xelatex syllabus.tex
 ```
 
 `mmd` is MultiMarkdown. Fletcher Penney describes how to install it [on the
@@ -47,13 +48,15 @@ brew install --HEAD multimarkdown
 A new version of `mmd` is required, because functionality like `html footer` is
 a recent addition.
 
-`post-mmd-process.sh` is a shell script that adds a little more post-processing
+`process-mmd.sh` is a shell script that adds a little more post-processing
 to the tex file, like suppressing section numbering and cleaning up
 MultiMarkdown’s best guess at how to handle slashes.
 
 `xelatex` is [XeLaTeX](https://en.wikipedia.org/wiki/XeTeX). It is installed as
 part of [TeX Live](https://www.tug.org/texlive/) and/or
-[MacTeX](https://tug.org/mactex).
+[MacTeX](https://tug.org/mactex). `biber` is
+[biber](http://biblatex-biber.sourceforge.net/), a replacement for BibTeX and
+formats the bibliography for the printed version of the document.
 
 ## The html version
 
@@ -65,10 +68,9 @@ navbar is built in `sections/navbar.html`, and it is only transcluded when
 outputting to html. However, traces of its presence remain when outputting to
 TeX. 
 
-Because all of the html-specific stuff is done in the metadata, the html
-version cannot make use of the metadata in the same way the TeX version can. As
-a result, the navbar and jQuery commands in `html footer` must be edited by
-hand.
+Some html-specific stuff is done in the metadata, but the html version cannot
+make use of the metadata in the same way the TeX version can. As a result, the
+navbar and jQuery commands in `html footer` might need to be edited by hand.
 
 ## The TeX/pdf version
 
@@ -81,8 +83,8 @@ Garamond](https://www.google.com/fonts/specimen/EB+Garamond) or
 a fit. Of course, you could comment out those lines from
 `latex-support/second-header.tex` or install the fonts. They are free.
 
-There is also rudimentary support for bibliographies, but I’ve not yet
-formalized it.
+The bibliography is built using a `.bib` file and `Biber`. Explaining hot to
+build that is way beyond the scope of this document.
 
 ## Issues / roadmap
 
@@ -105,6 +107,12 @@ Watson](http://english.fas.nyu.edu/object/JiniWatson.html). She was also
 helpful in giving me a sense of what kinds of assignments and homework students
 could expect at this university. Useful info for someone who’s not taught in a
 US context in over half a decade!
+
+The specific parameters of the English 101 course were greatly enhanced by
+syllabi for the same course designed by Carla María Thomas and Rachael Michelle
+Wilson. The three of us, along with Elizabeth McHenry and Simón Trujillo, are
+the band of five teaching this new course in Spring 2017, and our lengthy email
+chain has also influenced this document.
 
 The bravery to create a `LaTeX` syllabus using the `memoir` class was fueled by
 Kieran Healy’s [custom LaTeX
