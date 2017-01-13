@@ -14,7 +14,7 @@ can describe a person in the world and how that has changed over time.
 * Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6.
 * Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. Presentation: Du Bois, “Of our Spiritual Strivings” and “The Sorrow Songs.”
 * Wednesday, 1 Feb: From _S/Z_: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
-* Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. Presentation: White, “Value of Narrativity in the Representation of Reality.” 
+* Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. Presentation: White, “The Value of Narrativity in the Representation of Reality.” 
 * Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
 * Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
 * Monday, 13 Feb: **Library visit**; _They Say / I Say_ to p. 105.
