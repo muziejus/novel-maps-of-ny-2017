@@ -55,7 +55,7 @@ MultiMarkdown’s best guess at how to handle slashes.
 `xelatex` is [XeLaTeX](https://en.wikipedia.org/wiki/XeTeX). It is installed as
 part of [TeX Live](https://www.tug.org/texlive/) and/or
 [MacTeX](https://tug.org/mactex). `biber` is
-[biber](http://biblatex-biber.sourceforge.net/), a replacement for BibTeX and
+[Biber](http://biblatex-biber.sourceforge.net/), a replacement for BibTeX that
 formats the bibliography for the printed version of the document.
 
 ## The html version
@@ -83,7 +83,7 @@ Garamond](https://www.google.com/fonts/specimen/EB+Garamond) or
 a fit. Of course, you could comment out those lines from
 `latex-support/second-header.tex` or install the fonts. They are free.
 
-The bibliography is built using a `.bib` file and `Biber`. Explaining hot to
+The bibliography is built using a `.bib` file and `Biber`. Explaining how to
 build that is way beyond the scope of this document.
 
 ## Issues / roadmap
