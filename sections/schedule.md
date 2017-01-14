@@ -49,7 +49,7 @@ What does it even mean to speak of “English” literature? Is this distinction
 Finally, how does the world reconstruct itself in an American milieu?
 
 * Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “If We Must Die,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.”
-* Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “The Discovery of What It Means to Be an American.”
+* Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “Stranger in the Village.”
 * Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections).
 * Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
 * Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through p. 59. Presentation: Cheng, “The Melancholy of Race.”
