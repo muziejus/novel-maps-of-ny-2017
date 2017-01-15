@@ -24,7 +24,7 @@ text for which a student will be presenting that day.
 
 *Who Will Survive in America?* |||||
 3 Apr | Hughes & McKay; P: Césaire | Brooks; P: Baldwin |||
-10 Apr | Moraga | Moraga; P: Anzaldúa |||
+10 Apr | Moraga; P: Fernández Retamar | Moraga; P: Anzaldúa |||
 17 Apr | Rankine; P: Cheng | Rankine; P: Berlant |||
 24 Apr | Row | Row | Row plenary | Row plenary; **Final précis due** |
 
