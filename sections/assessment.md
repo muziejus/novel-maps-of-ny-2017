@@ -46,7 +46,8 @@ long.
 read for class. You should show the passage’s importance to the text as a
 whole. This essay should also be 900–1200 words long. It should also
 include, marked on the page, the various “templates” (in the Graff and
-Birkenstein sense) you make use of.
+Birkenstein sense) you make use of. It should be handed in either during Prof. 
+Deer’s plenary or by 5 p.m. in my mailbox on the second floor of 244 Greene St.
 
 #### Second essay rewrite
 

@@ -31,7 +31,7 @@ Next, we look to the role literature plays in the scope of war.
 * Thursday, 2 Mar; Friday 3 Mar: Patrick Deer **plenary**.
 * Monday, 6 Mar: From *U. S. A.*: “Newsreel XIV,” “Emperor of the Caribbean,” “The Camera Eye (20),” “Newsreel XXII,” “The Camera Eye (30),” “Randolph Bourne,” “Newsreel XXIII,” “Newsreel XXIX,” “The Camera Eye (36),” “Meester Veelson,” “Newsreel XXX,” “Newsreel XXIV,” “The House of Morgan,” “Newsreel XXXV,” “The Camera Eye (39),” “Newsreel XLIII,” “The Body of an American,” “Newsreel LXVIII,” “The Camera Eye (51).” Presentation: Martí, “Our America.”
 * Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
-* Friday, 10 Mar: **Second essay due**.
+* Friday, 10 Mar: **Second essay due** either at the plenary or in my mailbox in 244 Greene St. by 5 p.m.
 * Monday, 13 Mar: **Spring Break**.
 
 ### 3. Around the world
