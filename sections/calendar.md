@@ -23,7 +23,7 @@ text for which a student will be presenting that day.
 27 Mar | Patel | Patel | Watson plenary | Watson plenary; **2nd essay rewrite due** |
 
 *Who Will Survive in America?* |||||
-3 Apr | Hughes & McKay; P: Césaire (James) | Brooks; P: Baldwin1 (Josh)|||
+3 Apr | Hughes & McKay; P: Césaire (James) | Brooks; P: Baldwin1 (Caroline)|||
 10 Apr | Moraga; P: Fernández Retamar (Debbie) | Moraga; P: Anzaldúa (Trishta)|||
 17 Apr | Rankine; P: Cheng (Ally)| Rankine; P: Berlant (Emily)|||
 24 Apr | Row; P: Baldwin2 (Elia) | Row | Row plenary | Row plenary; **Final précis due** |

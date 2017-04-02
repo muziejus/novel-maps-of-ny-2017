@@ -31,7 +31,7 @@ Next, we look to the role literature plays in the scope of war.
 * Thursday, 2 Mar; Friday 3 Mar: Patrick Deer **plenary**.
 * Monday, 6 Mar: From *U. S. A.*: “Newsreel XIV,” “Emperor of the Caribbean,” “The Camera Eye (20),” “Newsreel XXII,” “The Camera Eye (30),” “Randolph Bourne,” “Newsreel XXIII,” “Newsreel XXIX,” “The Camera Eye (36),” “Meester Veelson,” “Newsreel XXX,” “Newsreel XXIV,” “The House of Morgan,” “Newsreel XXXV,” “The Camera Eye (39),” “Newsreel XLIII,” “The Body of an American,” “Newsreel LXVIII,” “The Camera Eye (51).” Presentation: Martí, “Our America.”
 * Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
-* Friday, 10 Mar: **Second essay due** either at the plenary or in my mailbox in 244 Greene St. by 5 p.m.
+* Friday, 10 Mar: **Second essay due** in my mailbox in 244 Greene St. by 5 p.m.
 * Monday, 13 Mar: **Spring Break**.
 
 ### 3. Around the world
@@ -42,19 +42,19 @@ What does it even mean to speak of “English” literature? Is this distinction
 * Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: Cheah, “Missed Encounters: Cosmopolitanism, World Literature, and Postcoloniality.”
 * Monday, 27 Mar: _Migritude_ through p. 72. 
 * Wednesday, 29 Mar: _Migritude_ to end.
-* Thursday, 30 Mar; Friday, 31 Mar: Jini Kim Watson **plenary**. **Second essay rewrite due**.
+* Thursday, 30 Mar; Friday, 31 Mar: Jini Kim Watson **plenary**.
 
 ### 4. Who will survive in America?
 
 Finally, how does the world reconstruct itself in an American milieu?
 
-* Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “If We Must Die,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.”
+* Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “If We Must Die,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.” **Second essay rewrite due**.
 * Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “Stranger in the Village.”
 * Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Fernández Retamar, “Caliban: Notes towards a Discussion of Culture in Our America.”
 * Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
 * Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through p. 59. Presentation: Cheng, “The Melancholy of Race.”
 * Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Berlant “Slow Death (Sovereignty, Obesity, Lateral Agency).”
-* Monday, 24 Apr: “Native Sons” & “A Confession.”
+* Monday, 24 Apr: “Native Sons” & “A Confession.” Presentation: Baldwin, “Me and My House.”
 * Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
 * Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**. **Final précis due**.
 * Monday, 1 May: Debrief.
