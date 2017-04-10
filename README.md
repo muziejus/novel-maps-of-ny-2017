@@ -30,14 +30,12 @@ through the html as it exists and fill in text strings.
 ```
 git clone https://github.com/muziejus/english-101-2017.git
 cd english-101-2017
-mmd syllabus.mmd
-mmd2tex syllabus.mmd
 sh process-mmd.sh
 biber syllabus
 xelatex syllabus.tex ; xelatex syllabus.tex
 ```
 
-`mmd` is MultiMarkdown. Fletcher Penney describes how to install it [on the
+The `process-mmd.sh` script relies on MultiMarkdown. Fletcher Penney describes how to install it [on the
 official site](http://fletcher.github.io/MultiMarkdown-5/installation.html),
 but for Mac, assuming you have homebrew installed, it’s as easy as:
 
@@ -48,9 +46,10 @@ brew install --HEAD multimarkdown
 A new version of `mmd` is required, because functionality like `html footer` is
 a recent addition.
 
-`process-mmd.sh` is a shell script that adds a little more post-processing
-to the tex file, like suppressing section numbering and cleaning up
-MultiMarkdown’s best guess at how to handle slashes.
+`process-mmd.sh` processes the syllabus.mmd file with `mmd` and then adds a
+little more post-processing to the tex file, like suppressing section numbering
+and cleaning up MultiMarkdown’s best guess at how to handle slashes. It then
+runs the new `.tex` version of the syllabus through `xelatex`.
 
 `xelatex` is [XeLaTeX](https://en.wikipedia.org/wiki/XeTeX). It is installed as
 part of [TeX Live](https://www.tug.org/texlive/) and/or
@@ -60,13 +59,13 @@ formats the bibliography for the printed version of the document.
 
 ## The html version
 
-`mmd syllabus.mmd` creates a file, `syllabus.html`, which is a self-contained
-version of the syllabus, styled with [Bootstrap](http://getbootstrap.com). As a
-result, it has a pleasant, generic look, a functioning navbar, responsive
-layout, and a spy that updates the navbar based on where you are scrolling. The
-navbar is built in `sections/navbar.html`, and it is only transcluded when
-outputting to html. However, traces of its presence remain when outputting to
-TeX. 
+The process script also runs `mmd syllabus.mmd`, and that creates a file,
+`syllabus.html`, which is a self-contained version of the syllabus, styled with
+[Bootstrap](http://getbootstrap.com). As a result, it has a pleasant, generic
+look, a functioning navbar, responsive layout, and a spy that updates the
+navbar based on where you are scrolling. The navbar is built in
+`sections/navbar.html`, and it is only transcluded when outputting to html.
+However, traces of its presence remain when outputting to TeX. 
 
 Some html-specific stuff is done in the metadata, but the html version cannot
 make use of the metadata in the same way the TeX version can. As a result, the
