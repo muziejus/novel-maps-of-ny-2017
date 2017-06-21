@@ -1,8 +1,3 @@
-
-Thursday plenaries are 18:25–19:40 in the Event Space, 244 Greene. Friday
-plenaries are 11:00–12:15 in the Event Space, 244 Greene. “P:” is the secondary
-text for which a student will be presenting that day.
-
 | Week | Monday | Wednesday | Thursday | Friday |
 -------| ------ | --------- | -------- | ------ |
 *Who Is It?* |||||

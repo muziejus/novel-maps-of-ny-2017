@@ -1,7 +1,7 @@
-# English 101 2017
+# Novel Maps of NY 2017
 
-I am teaching “Introduction to the Study of Literature,” or “English 101,” in
-the Spring of 2017 at NYU. 
+This is the syllabus for the course “Digital Literary Studies: Novel Maps of
+NY,” offered in Autumn 2017 at New York University.
 
 This repository is an attempt to use
 [MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
@@ -28,8 +28,8 @@ through the html as it exists and fill in text strings.
 ## Usage
 
 ```
-git clone https://github.com/muziejus/english-101-2017.git
-cd english-101-2017
+git clone https://github.com/muziejus/novel-maps-of-ny.git
+cd novel-maps-of-ny
 sh process-mmd.sh
 biber syllabus
 xelatex syllabus.tex ; xelatex syllabus.tex
@@ -97,8 +97,8 @@ put off for a later time.
 
 ## Credits
 
-This is a large reworking of a previous syllabus for a course I taught at NYU,
-“[Does It Work?](https://github.com/muziejus/does-it-work)” in autumn 2016.
+This is a fork of a previous syllabus for a course I taught at NYU,
+“[English 101](https://github.com/muziejus/english-101-2017)” in spring 2017.
 
 In order to get the syllabus to sound “NYUish,” I copied (sometimes very
 heavily) from a syllabus prepared by my colleague at NYU, [Jini
@@ -106,12 +106,6 @@ Watson](http://english.fas.nyu.edu/object/JiniWatson.html). She was also
 helpful in giving me a sense of what kinds of assignments and homework students
 could expect at this university. Useful info for someone who’s not taught in a
 US context in over half a decade!
-
-The specific parameters of the English 101 course were greatly enhanced by
-syllabi for the same course designed by Carla María Thomas and Rachael Michelle
-Wilson. The three of us, along with Elizabeth McHenry and Simón Trujillo, are
-the band of five teaching this new course in Spring 2017, and our lengthy email
-chain has also influenced this document.
 
 The bravery to create a `LaTeX` syllabus using the `memoir` class was fueled by
 Kieran Healy’s [custom LaTeX
@@ -131,7 +125,7 @@ ProfHacker articles:
 
 ## License
 
-English 101 2017 by [Moacir P. de Sá Pereira](http://moacir.com) is licensed
+Novel Maps of NY 2017 by [Moacir P. de Sá Pereira](http://moacir.com) is licensed
 under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/). To view a copy of
 this license, visit
