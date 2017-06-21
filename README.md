@@ -6,8 +6,8 @@ NY,” offered in Autumn 2017 at New York University.
 This repository is an attempt to use
 [MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
 generate both a [handsome
-webpage](https://muziejus.github.io/english-101-2017/syllabus.html) and a
-[handsome pdf](https://muziejus.github.io/english-101-2017/syllabus.pdf) of the
+webpage](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.html) and a
+[handsome pdf](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.pdf) of the
 syllabus at the same time. This is (not) surprisingly rather tricky. However,
 this is also a template for future syllabi, and I encourage others to tweak
 this work.
