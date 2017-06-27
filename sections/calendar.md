@@ -1,28 +1,19 @@
-| Week | Monday | Wednesday | Thursday | Friday |
--------| ------ | --------- | -------- | ------ |
-*Who Is It?* |||||
-23 Jan| Introductions | Johnson |||
-30 Jan | Johnson; P: Du Bois (Bethany)| Barthes & Kempe; |||
-6 Feb | Kempe; P: White (Hannah) | Kempe | Dinshaw plenary | Dinshaw plenary |
-13 Feb | Library visit; Graff & Birkenstein | Shakespeare; P: Foucault (Alex); **1st essay due** |||
-20 Feb | **No class** | Shakespeare; P: Benjamin (Elizabeth) |||
+| Week | Monday | Tuesday | Wednesday |
+-------| ------ | --------- | -------- |
+4 Sep | **No Class** | (Office Hours) | Introductions / Whitehead |
+11 Sep | HW1, *Tech Day* | (Office Hours) | |
+18 Sep | | (Office Hours) | |
+25 Sep | | (Office Hours) | | 
+2 Oct | | (Office Hours) | |
+9 Oct | **No Class** | (Office Hours) | |
+16 Oct | | (Office Hours) | |
+23 Oct | | (Office Hours) | |
+30 Oct | | (Office Hours) | |
+6 Nov | | (Office Hours) | |
+13 Nov | | (Office Hours) | |
+20 Nov | | (Office Hours) | **No Class** |
+27 Nov | | (Office Hours) | |
+4 Dec | | (Office Hours) | |
+11 Dec | | makeup class | |
+18 Dec | | | **Final Project Due** |
 
-*Life during Wartime* |||||
-27 Feb | Fallon; Graff & Birkenstein | Klay | Deer plenary | Deer plenary |
-6 Mar | Dos Passos; P: Martí (Marco) | Roy || **2nd essay due**|
-
-13 Mar | **Spring Break** ||||
-
-*Around the World* |||||
-20 Mar | Coovadia; P: Dimock (Kaity) | Coovadia; P: Cheah (Tim)|||
-27 Mar | Patel | Patel | Watson plenary | Watson plenary; **2nd essay rewrite due** |
-
-*Who Will Survive in America?* |||||
-3 Apr | Hughes & McKay; P: Césaire (James) | Brooks; P: Baldwin1 (Caroline)|||
-10 Apr | Moraga; P: Fernández Retamar (Debbie) | Moraga; P: Anzaldúa (Trishta)|||
-17 Apr | Rankine; P: Cheng (Ally)| Rankine; P: Berlant (Emily)|||
-24 Apr | Row; P: Baldwin2 (Elia) | Row | Row plenary | Row plenary; **Final précis due** |
-
-1 May | Debrief | **No class** |||
-
-8 May | | **Final essay due** | | |
