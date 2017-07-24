@@ -24,6 +24,13 @@ participation:
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
 
+#### Digital work
+
+**25%** This course will cumulatively add to your knowledge of the various
+tools you will need to use in order to complete the analytical aspects of the
+coursework. As such, staying current by doing the appropriate digital homework
+is required. 
+
 #### First essay
 
 **15%** The first essay will be in response to a prompt. It should be 900–1200 words
