@@ -8,10 +8,4 @@ geographical storytelling as a mode of literary analysis. More
 concretely, we will build online data repositories and exhibits (using
 JavaScript and HTML) that synthesize our reading and mapping
 practices. No previous programming knowledge is needed, but a
-curiosity and interest in puzzle solving is. Novels we read may be
-from among those by Renata Adler, Julia Alvarez, Teju Cole, Don
-DeLillo, F. Scott Fitzgerald, Tanwi Nandini Islam, Rachel Kushner,
-Imbolo Mbue, Claude McKay, Toni Morrison, Ann Petry, Ernesto Quiñonez,
-Kim Stanley Robinson, Tess Slesinger, Edith Wharton, and Colson
-Whitehead.
-
+curiosity and interest in puzzle solving is. 

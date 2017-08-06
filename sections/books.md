@@ -3,5 +3,8 @@
 * Hardwick, Elizabeth. *Sleepless Nights* (1979)
 * Haverbeke, Marijn. *Eloquent JavaScript* (2011)
 * McKay, Claude. *Amiable with Big Teeth* (1941)
-
-
+* Messud, Claire. *The Emperor’s Children* (2006)
+* Robinson, Kim Stanley. *New York 2140* (2016)
+* Slesinger, Tess. *The Unpossessed* (1934)
+* Whitehead, Colson. *Zone One* (2011)
+* Woodson, Jacqueline. *Another Brooklyn* (2016)

@@ -18,63 +18,73 @@ In a discussion-oriented class, “active participation” involves the followin
 components. All of these are necessary to receive maximum points for
 participation:
 
-* being in class on time,
+* being in class on time and staying in the classroom,
 * arriving having done the reading for that day,
 * having considered the reading and found points of entry into class discussion via questions about specific passages,
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
 
-#### Digital work
+#### JavaScript Homework
 
-**25%** This course will cumulatively add to your knowledge of the various
-tools you will need to use in order to complete the analytical aspects of the
-coursework. As such, staying current by doing the appropriate digital homework
-is required. 
+**15%** Every week, for the Wednesday class, the respective problem set for
+that week in *The JavaScripting English Major* will be due. The answers should
+be emailed to me before class on Wednesday, and you should bring your homework
+to class on Wednesday as well.
 
-#### First essay
+#### Dérives
 
-**15%** The first essay will be in response to a prompt. It should be 900–1200 words
-long.
+**20%** You will undertake two dérives during the semester. In both, you will
+get lost in Manhattan (and beyond?), while also documenting and tracking
+yourself. In order to direct your dérive, you will use either an app for your
+smartphone or a set of cards printed out ahead of time. In order to track the
+dérive, you are required to trace your path and take notes on a Field Papers
+atlas and, if possible, track yourself using GPS.
 
-#### Second essay
+During the course of the dérive, which can last hours, you should reflect on
+the readings we have already done for the class, both in what you observe
+while getting lost, but also in the process of getting lost itself.
+  
+At the end, you will write up a short (1,100--1,250 words) report for each
+dérive, including textual references from our readings. The report will be
+joined by the original Field Papers atlas with notes. You can and are
+encouraged to use other forms of media to supplement the report.
 
-**10%** The second essay features a reading of a passage from a work we have
-read for class. You should show the passage’s importance to the text as a
-whole. This essay should also be 900–1200 words long. It should also
-include, marked on the page, the various “templates” (in the Graff and
-Birkenstein sense) you make use of. It should be handed in by 5 p.m. on the
-due date in my mailbox on the second floor of 244 Greene St.
-
-#### Second essay rewrite
-
-**10%** The rewrite of the second essay is an opportunity to build upon the
-second essay by incorporating some of the additional texts you have been
-exposed to in the presentations. This rewrite should be 1200–1500 words
-long, and it should also feature the aforementioned templates.
+Finally, you will create a Leaflet map tracing your two dérives, to be hosted
+on GitHub.
 
 #### Presentation
 
-**20%** Throughout the semester, secondary texts have been paired with with
-primary reading for that day. At the beginning of the semester, you will
-choose a secondary text and present on it later in the semester. The
-presentation should be 10–15 minutes long. A good presentation will provide
-context for the secondary text itself, feature a thorough summary of the
-secondary text and its argument, and close with links between the secondary
-text and that day’s primary text. Slides, etc., are not necessary.  The
-presentation will be accompanied by a short document (800 words) laying out
-the same information as the presentation did to be turned in at the same
-time as the presentation.
-
-The texts for the presentations will not be easy to read, understand, or even
-summarize. These presentations will, hence, require time to prepare. As with
-any assignment, make use of office hours to help clarify any questions you may
-have.
+**10%** You will give a short presentation on one of the novels we
+are reading. This presentation should be about five minutes long and introduce
+another writer’s views on the novel. Usually, this means looking up a book
+review. Most of the books will have been reviewed by at least one of the *New
+York Times* or *New York Review of Books*, but you can look for other reviews
+from newspapers and magazines. The presentation should summarize the review
+and include your thoughts on the review having read (at least some of) the
+novel in question.
 
 #### Final project
 
-**20%** The final essay is a critical work on one of the primary texts we have
-read. It should build on the reading techniques from the first two essays
-as well as make use of at least one of the secondary texts from the course.
-A short précis of the essay (up to 600 words) is due two weeks earlier. It
-should be the essay in miniature—a prose outline, illustrating the essay’s
-structure, context, and argument.
+**30%** Throughout the semester, you will be building a project based on one
+of the novels in the class and its relationship to New York City. This project
+will be a website, hosted on GitHub. Because it must contain at least one
+Leaflet map, thematically the project will benefit from tracing certain
+geographies in the novel of your choice and reproducing them online. The
+result of the project should not be a fixed conclusion, but, rather, a new
+series of questions prompted by your thinking about the novel geographically.
+That is, what does the map you create tell you about the novel that you did
+not previously know? What kinds of future avenues of inquiry open up because
+of it?
+
+You should be thinking about the project as early as possible, even
+considering from the discussion on the first day which novel you may want to
+choose for your focus and jumping ahead on it. Right before Thanksgiving, you
+will send me a short outline of the project, a précis, that describes the
+structure of the site, the content, and what kinds of questions you will be
+investigating. During the last week of the course, we will have time in class
+to troubleshoot technical problems, and on the last class, you will give a
+quick, five-minute presentation about your project. Over the next week, you
+will complete the project.
+
+Hitting every deadline is crucial, so being late on any of these three points
+(précis, presentation, final submission) will hurt your final grade. 
