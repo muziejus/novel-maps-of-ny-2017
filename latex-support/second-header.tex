@@ -12,7 +12,15 @@
 % EB Garamond is available here: https://www.google.com/fonts/specimen/EB+Garamond
 % It has no bold form, so Helvetica stands in, instead
 % DejaVu is a whole family of fonts, and I love the mono version: http://dejavu-fonts.org/wiki/Main_Page
-\setmainfont[Mapping=tex-text,BoldFont={Helvetica Bold}]{EB Garamond} 
+% \setmainfont[Mapping=tex-text,BoldFont={Helvetica Bold}]{EB Garamond} 
+\setmainfont{EBGaramond}[
+  Path = /Users/moacir/Library/Fonts/,
+  UprightFont = * ,
+  ItalicFont = *12-Italic ,
+  SmallCapsFont = *SC ,
+  Extension = .otf 
+  ]
+% \setboldfont[Mapping=tex-text]{Helvetica Bold}
 \setsansfont[Mapping=tex-text]{Helvetica} 
 \setmonofont[Mapping=tex-text,Scale=0.8]{DejaVu Sans Mono}
 
