@@ -1,63 +1,43 @@
 Required readings indicated with quotation marks (“”) will be available as
-pdfs. *They should be printed out for use in class*. The texts for
-presentations, save the Du Bois, are also available as pdfs.
+pdfs. *They should be printed out for use in class*. The texts for the
+presentations are also available as pdfs.
 
 The list of references at the end of the pdf version of the syllabus provides
 bibliographic details for all the texts for the course.
 
-### 1. Who is it?
+`HW n` refers to the homework in the *n*th chapter of [*The JavaScripting
+English Major*](the-javascripting-english-major.moacir.com).
 
-In the first section of this course, we begin by thinking about how literature
-can describe a person in the world and how that has changed over time.
-
-* Monday, 23 Jan: Introductions.
-* Wednesday, 25 Jan: _The Autobiography of an Ex-Colored Man_ through ch. 6.
-* Monday, 30 Jan: _The Autobiography of an Ex-Colored Man_ to end. Presentation: Du Bois, “Of our Spiritual Strivings” and “The Sorrow Songs.”
-* Wednesday, 1 Feb: From _S/Z_: “Evaluation,” “Interpretation,” “Reading, Forgetting,” “Step by Step,” “The Starred Text,” “The Broken Text,” “How Many Readings?,” “(1),” “(2),” “(3),” and “The Five Codes”; _The Book of Margery Kempe_ through ch. 25.
-* Monday, 6 Feb: _The Book of Margery Kempe_ through ch. 77. Presentation: White, “The Value of Narrativity in the Representation of Reality.” 
-* Wednesday, 8 Feb: _The Book of Margery Kempe_ to end.
-* Thursday, 9 Feb; Friday, 10 Feb: Carolyn Dinshaw **plenary**.
-* Monday, 13 Feb: **Library visit**; _They Say / I Say_ to p. 105.
-* Wednesday, 15 Feb: _The Tempest_ through Act III. Presentation: Foucault, “Preface” and “Las Meninas.” **First essay due**.
-* Monday, 20 Feb: **No class**.
-* Wednesday, 22 Feb: _The Tempest_ to end. Presentation: “Theses on the Philosophy of History.”
-
-### 2. Life during wartime
-
-Next, we look to the role literature plays in the scope of war.
-
-* Monday, 27 Feb: “You Survived the War, Now Survive the Homecoming;” _They Say / I Say_ to p. 144.
-* Wednesday, 1 Mar: “Prayer in the Furnace” & “War Stories.”
-* Thursday, 2 Mar; Friday 3 Mar: Patrick Deer **plenary**.
-* Monday, 6 Mar: From *U. S. A.*: “Newsreel XIV,” “Emperor of the Caribbean,” “The Camera Eye (20),” “Newsreel XXII,” “The Camera Eye (30),” “Randolph Bourne,” “Newsreel XXIII,” “Newsreel XXIX,” “The Camera Eye (36),” “Meester Veelson,” “Newsreel XXX,” “Newsreel XXIV,” “The House of Morgan,” “Newsreel XXXV,” “The Camera Eye (39),” “Newsreel XLIII,” “The Body of an American,” “Newsreel LXVIII,” “The Camera Eye (51).” Presentation: Martí, “Our America.”
-* Wednesday, 8 Mar: _Capitalism: A Ghost Story_.
-* Friday, 10 Mar: **Second essay due** in my mailbox in 244 Greene St. by 5 p.m.
-* Monday, 13 Mar: **Spring Break**.
-
-### 3. Around the world
-
-What does it even mean to speak of “English” literature? Is this distinction important?
-
-* Monday, 20 Mar: _Green-Eyed Thieves_ through p. 125. Presentation: Dimock, “Genre as World System: Epic and Novel on Four Continents.”
-* Wednesday, 22 Mar: _Green-Eyed Thieves_ to end. Presentation: Cheah, “Missed Encounters: Cosmopolitanism, World Literature, and Postcoloniality.”
-* Monday, 27 Mar: _Migritude_ through p. 72. 
-* Wednesday, 29 Mar: _Migritude_ to end.
-* Thursday, 30 Mar; Friday, 31 Mar: Jini Kim Watson **plenary**.
-
-### 4. Who will survive in America?
-
-Finally, how does the world reconstruct itself in an American milieu?
-
-* Monday, 3 Apr: “The White House,” “A Capitalist at Dinner,” “The Tropics in New York,” “If We Must Die,” “The Negro Speaks of Rivers,” “The Weary Blues,” “White Man,” and “Advertisement for the Waldorf-Astoria.” Presentation: Césaire, “Discourse on Colonialism.” **Second essay rewrite due**.
-* Wednesday, 5 Apr: “kitchenette building,” “obituary for a living lady,” “the mother,” “the soft man,” “when Mrs. Martin’s Booker T.,” and _Riot_. Presentation: Baldwin, “Stranger in the Village.”
-* Monday, 10 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Fernández Retamar, “Caliban: Notes towards a Discussion of Culture in Our America.”
-* Wednesday, 12 Apr: *Loving in the War Years: Lo que nunca pasó por sus labios*  (selections). Presentation: Anzaldúa, “La Prieta.”
-* Monday, 17 Apr: *Don’t Let Me Be Lonely: An American Lyric* through p. 59. Presentation: Cheng, “The Melancholy of Race.”
-* Wednesday, 19 Apr: *Don’t Let Me Be Lonely: An American Lyric* to end. Presentation: Berlant “Slow Death (Sovereignty, Obesity, Lateral Agency).”
-* Monday, 24 Apr: “Native Sons” & “A Confession.” Presentation: Baldwin, “Me and My House.”
-* Wednesday, 26 Apr: “Waterfalls” & “The Call of Blood”
-* Thursday, 27 Apr; Friday 28 Apr: Jess Row **plenary**. **Final précis due**.
-* Monday, 1 May: Debrief.
-* Wednesday, 3 May: **No class**.
-* Wednesday, 10 May: **Final essay due**.
-
+* Wednesday, 6 Sep: Introductions, Whitehead, “City Limits.”
+* Monday, 11 Sep: Messud, _The Emperor’s Children_ through
+* Wednesday, 13 Sep: Messud, _The Emperor’s Children_ through; `HW 1 & 2`
+* Monday, 18 Sep: Messud, _The Emperor’s Children_ through; Debord, “Theory of
+the Dérive.”
+* Wednesday, 20 Sep: Messud, _The Emperor’s Children_ through
+* Monday, 25 Sep: Messud, _The Emperor’s Children_ through
+* Wednesday, 27 Sep: Messud, _The Emperor’s Children_ to end.
+* Monday, 2 Oct: Slesinger, _The Unpossessed_ through
+* Wednesday, 4 Oct: Slesinger, _The Unpossessed_ through
+* Monday, 9 Oct: **No class**
+* Wednesday, 11 Oct: Slesinger, _The Unpossessed_ through ; De Certeau,
+“Walking in the City”
+* Monday, 16 Oct: Slesinger, _The Unpossessed_ to end.
+* Wednesday, 18 Oct: McKay, _Amiable with Big Teeth_ through ; `HW 7`
+* Monday, 23 Oct: McKay, _Amiable with Big Teeth_ through
+* Wednesday, 25 Oct: McKay _Amiable with Big Teeth_ to end ; `HW 8`
+* Monday, 30 Oct: Cole, _Open City_ through ch. 15.
+* Wenesday, 1 Nov: Cole, _Open City_ to end; `HW 9`
+* Monday, 6 Nov: Woodson, _Another Brooklyn_ through
+* Wednesday, 8 Nov: Woodson, _Another Brooklyn_ to end; `HW 10`
+* Monday, 13 Nov: Hardwick, _Sleepless Nights_ through
+* Wednesday, 15 Nov: Hardwick, _Sleepless Nights_ to end; `HW 11`
+* Monday, 20 Nov: Whitehead, _Zone One_ through; Final project précis; `HW 13`
+* Wednesday, 22 Nov: **No class** 🦃
+* Monday, 27 Nov: Whitehead, _Zone One_ through
+* Wednesday, 29 Nov: Whitehead, _Zone One_ to end; `HW 13`
+* Monday, 4 Dec: Robinson, _New York 2140_ through
+* Wednesday, 6 Dec: Robinson, _New York 2140_ through; `HW 14`
+* Monday, 11 Dec: Robinson, _New York 2140_ through
+* Tuesday, 12 Dec: Robinson, _New York 2140_ through ; Project studio
+* Wednesday, 13 Dec: Robinson, _New York 2140_ to end; `HW 15`
+* Wednesday, 20 Dec: **Final Project Due** 🎉
