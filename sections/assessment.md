@@ -61,7 +61,8 @@ review. Most of the books will have been reviewed by at least one of the *New
 York Times* or *New York Review of Books*, but you can look for other reviews
 from newspapers and magazines. The presentation should summarize the review
 and include your thoughts on the review having read (at least some of) the
-novel in question.
+novel in question. For guidelines on giving a good presentation, see [my
+webpage on presentation tips](http://moacir.com/courses/presentation-tips/).
 
 #### Final project
 
