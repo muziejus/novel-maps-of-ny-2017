@@ -27,9 +27,18 @@ participation:
 #### JavaScript Homework
 
 **15%** Every week, for the Wednesday class, the respective problem set for
-that week in *The JavaScripting English Major* will be due. The answers should
-be emailed to me before class on Wednesday, and you should bring your homework
-to class on Wednesday as well.
+that week in [*The JavaScripting English
+Major*](http://the-javascripting-english-major.moacir.com) will be due. The
+answers should be emailed to me before class on Wednesday, and you should
+bring your homework to class on Wednesday as well, where we will correct it as
+a group.
+
+*The JavaScripting English Major* is a course I am preparing, so your feedback
+is very useful. Most of the chapters dovetail with the chapters in *Eloquent
+JavaScript*, and if my description of a feature is insufficient, please look
+to the Haverbeke text for more information. Crockfor’s *JavaScript: The Good
+Parts* is more for reading on the side, if you find the programming aspects of
+the course especially interesting.
 
 #### Dérives
 
