@@ -31,7 +31,8 @@ html footer: </div> <!--closes main container-fluid-->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   <script>$('table').addClass("table table-hover");
     // Need the below because mmd makes its own body tag.
-    $('body').attr("data-spy", "scroll").attr("data-target", "#navbar").scrollspy({target: "#navbar"});
+    $("a[href='http://moacir.com']").addClass("nav-link");
+    $('body').attr("data-spy", "scroll").attr("data-target", "#navbar").scrollspy({target: "#navbar", offset: 100});
   </script>
 
 <!-- \iffalse -->
