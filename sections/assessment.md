@@ -1,6 +1,6 @@
 #### Participation
 
-**25%** The success of any course is directly related to the levels of engagement
+**10%** The success of any course is directly related to the levels of engagement
 brought both by the instructor and the students. As such, class participation
 is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
@@ -26,9 +26,9 @@ participation:
 
 #### JavaScript Homework
 
-**15%** Every week, for the Wednesday class, the respective problem set for
+**20%** Every week, for the Wednesday class, the respective problem set for
 that week in [*The JavaScripting English
-Major*](http://the-javascripting-english-major.moacir.com) will be due. The
+Major*](http://the-javascripting-english-major.org) will be due. The
 answers should be emailed to me before class on Wednesday, and you should
 bring your homework to class on Wednesday as well, where we will correct it as
 a group.
@@ -63,7 +63,7 @@ on GitHub.
 
 #### Presentation
 
-**10%** You will give a short presentation on one of the novels we
+**20%** You will give a short presentation on one of the novels we
 are reading. This presentation should be about five minutes long and introduce
 another writer’s views on the novel. Usually, this means looking up a book
 review. Most of the books will have been reviewed by at least one of the *New
