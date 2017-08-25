@@ -9,35 +9,34 @@ bibliographic details for all the texts for the course.
 English Major*](the-javascripting-english-major.moacir.com).
 
 * Wednesday, 6 Sep: Introductions, Whitehead, “City Limits.”
-* Monday, 11 Sep: Messud, _The Emperor’s Children_ through
-* Wednesday, 13 Sep: Messud, _The Emperor’s Children_ through; `HW 1 & 2`
-* Monday, 18 Sep: Messud, _The Emperor’s Children_ through; Debord, “Theory of
-the Dérive.”
-* Wednesday, 20 Sep: Messud, _The Emperor’s Children_ through
-* Monday, 25 Sep: Messud, _The Emperor’s Children_ through
-* Wednesday, 27 Sep: Messud, _The Emperor’s Children_ to end.
-* Monday, 2 Oct: Slesinger, _The Unpossessed_ through
-* Wednesday, 4 Oct: Slesinger, _The Unpossessed_ through
+* Monday, 11 Sep: Cole, _Open City_ through ch. 10.
+* Wednesday, 13 Sep: Cole, _Open City_ through ch. 20; `HW 1 & 2`
+* Monday, 18 Sep: Cole, _Open City_ to end.
+* Wednesday, 20 Sep:  Debord, “Theory of the Dérive”; `HW 3`.
+* Monday, 25 Sep: McKay, _Amiable with Big Teeth_ . 59.
+* Wednesday, 27 Sep: McKay, _Amiable with Big Teeth_; dérive 1 due; `HW 4`.
+* Monday, 2 Oct: McKay, _Amiable with Big Teeth_ to end.
+* Wednesday, 4 Oct: De Certeau, “Walking in the City”; `HW 5`.
 * Monday, 9 Oct: **No class**
-* Wednesday, 11 Oct: Slesinger, _The Unpossessed_ through ; De Certeau,
-“Walking in the City”
-* Monday, 16 Oct: Slesinger, _The Unpossessed_ to end.
-* Wednesday, 18 Oct: McKay, _Amiable with Big Teeth_ through ; `HW 7`
-* Monday, 23 Oct: McKay, _Amiable with Big Teeth_ through
-* Wednesday, 25 Oct: McKay _Amiable with Big Teeth_ to end ; `HW 8`
-* Monday, 30 Oct: Cole, _Open City_ through ch. 15.
-* Wenesday, 1 Nov: Cole, _Open City_ to end; `HW 9`
-* Monday, 6 Nov: Woodson, _Another Brooklyn_ through
-* Wednesday, 8 Nov: Woodson, _Another Brooklyn_ to end; `HW 10`
-* Monday, 13 Nov: Hardwick, _Sleepless Nights_ through
-* Wednesday, 15 Nov: Hardwick, _Sleepless Nights_ to end; `HW 11`
-* Monday, 20 Nov: Whitehead, _Zone One_ through; Final project précis; `HW 13`
+* Wednesday, 11 Oct: Slesinger, _The Unpossessed_; `HW 6`.
+* Monday, 16 Oct: Slesinger, _The Unpossessed_ 
+* Wednesday, 18 Oct: Slesinger, _The Unposessed_ ; `HW 7`.
+* Monday, 23 Oct: Slesinger, _The Unposessed_ 
+* Wednesday, 25 Oct: Slesinger _The Unposessed_ ; dérive 2 due; `HW 8`.
+* Monday, 30 Oct: Messud, _The Emperor's Children_ . 15.
+* Wenesday, 1 Nov: Messud, _The Emperor's Children_ ; `HW 9`.
+* Monday, 6 Nov: Messud, _The Emperor's Children_ . 8.
+* Wednesday, 8 Nov: Messud, _The Emperor's Children_ ; dérive leaflet due; `HW 10`.
+* Monday, 13 Nov: Messud, _The Emperor's Children_ to end.
+* Wednesday, 15 Nov: Messud, _The Emperor’s Children_ ; Final project précis
+due; `HW 11`.
+* Monday, 20 Nov: Messud, _The Emperor’s Children_ ; `HW 13`.
 * Wednesday, 22 Nov: **No class** 🦃
-* Monday, 27 Nov: Whitehead, _Zone One_ through
-* Wednesday, 29 Nov: Whitehead, _Zone One_ to end; `HW 13`
-* Monday, 4 Dec: Robinson, _New York 2140_ through
-* Wednesday, 6 Dec: Robinson, _New York 2140_ through; `HW 14`
-* Monday, 11 Dec: Robinson, _New York 2140_ through
-* Tuesday, 12 Dec: Robinson, _New York 2140_ through ; Project studio
-* Wednesday, 13 Dec: Robinson, _New York 2140_ to end; `HW 15`
+* Monday, 27 Nov: Messud, _The Emperor’s Children_  to end.
+* Wednesday, 29 Nov: Woodson, _Another Brooklyn_ ; `HW 13`.
+* Monday, 4 Dec: Woodson, _Another Brooklyn_ tbd.
+* Wednesday, 6 Dec: Woodson, _Another Brooklyn_ to end; `HW 14`.
+* Monday, 11 Dec: Hardwick, _Sleepless Nights_ through part 6.
+* Tuesday, 12 Dec: Hardwick, _Sleepless Nights_ to end; Project studio
+* Wednesday, 13 Dec: Presentations; `HW 15`.
 * Wednesday, 20 Dec: **Final Project Due** 🎉
