@@ -36,8 +36,7 @@ a group.
 *The JavaScripting English Major* is a course I am preparing, so your feedback
 is very useful. Most of the chapters dovetail with the chapters in *Eloquent
 JavaScript*, and if my description of a feature is insufficient, please look
-to the Haverbeke text for more information. Crockfor’s *JavaScript: The Good
-Parts* is more for reading on the side, if you find the programming aspects of
+to the Haverbeke text for more information. Crockford’s *JavaScript: The Good Parts* is more for reading on the side, if you find the programming aspects of
 the course especially interesting.
 
 #### Dérives
@@ -63,7 +62,7 @@ on GitHub.
 
 #### Presentation
 
-**20%** You will give a short presentation on one of the novels we
+**15%** You will give a short presentation on one of the novels we
 are reading. This presentation should be about five minutes long and introduce
 another writer’s views on the novel. Usually, this means looking up a book
 review. Most of the books will have been reviewed by at least one of the *New
@@ -75,7 +74,7 @@ webpage on presentation tips](http://moacir.com/courses/presentation-tips/).
 
 #### Final project
 
-**30%** Throughout the semester, you will be building a project based on one
+**35%** Throughout the semester, you will be building a project based on one
 of the novels in the class and its relationship to New York City. This project
 will be a website, hosted on GitHub. Because it must contain at least one
 Leaflet map, thematically the project will benefit from tracing certain
@@ -90,11 +89,11 @@ You should be thinking about the project as early as possible, even
 considering from the discussion on the first day which novel you may want to
 choose for your focus and jumping ahead on it. Right before Thanksgiving, you
 will send me a short outline of the project, a précis, that describes the
-structure of the site, the content, and what kinds of questions you will be
-investigating. During the last week of the course, we will have time in class
-to troubleshoot technical problems, and on the last class, you will give a
-quick, five-minute presentation about your project. Over the next week, you
-will complete the project.
+structure of the site (a “wireframe”), the content, and what kinds of
+questions you will be investigating. During the last week of the course, we
+will have time in class to troubleshoot technical problems, and on the last
+class, you will give a quick, five-minute presentation about your project.
+Over the following week, you will complete the project.
 
 Hitting every deadline is crucial, so being late on any of these three points
 (précis, presentation, final submission) will hurt your final grade. 
