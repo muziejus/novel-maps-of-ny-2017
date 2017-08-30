@@ -10,7 +10,7 @@
 23 Oct | Slesinger | (Office Hours) | Slesinger derive 2 due `HW 8`|
 30 Oct | Messud | (Office Hours) | Messud `HW 9`|
 6 Nov | Messud | (Office Hours) | Messud `HW 10`|
-13 Nov | Messud | (Office Hours) | Messud derive leaflet due `HW 11`|
+13 Nov | Messud | (Office Hours) | Messud dérive leaflet due `HW 11`|
 20 Nov | Messud final project précis `HW 12`| (Office Hours) | **No Class** 🦃|
 27 Nov | Messud | (Office Hours) | Woodson `HW 13` |
 4 Dec | Woodson | (Office Hours) | Woodson `HW 14`|

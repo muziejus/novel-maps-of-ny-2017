@@ -20,17 +20,17 @@ English Major*](the-javascripting-english-major.moacir.com).
 * Monday, 9 Oct: **No class**
 * Wednesday, 11 Oct: Slesinger, _The Unpossessed_ through part 1, ch. 5; `HW 6`.
 * Monday, 16 Oct: Slesinger, _The Unpossessed_ through part 2, ch. 5
-* Wednesday, 18 Oct: Slesinger, _The Unposessed_ to end of part 2; `HW 7`.
-* Monday, 23 Oct: Slesinger, _The Unposessed_  first half of part 3.
-* Wednesday, 25 Oct: Slesinger _The Unposessed_ to end; dérive 2 due; `HW 8`.
+* Wednesday, 18 Oct: Slesinger, _The Unpossessed_ to end of part 2; `HW 7`.
+* Monday, 23 Oct: Slesinger, _The Unpossessed_  first half of part 3.
+* Wednesday, 25 Oct: Slesinger _The Unpossessed_ to end; dérive 2 due; `HW 8`.
 * Monday, 30 Oct: Messud, _The Emperor's Children_ to May. 15.
 * Wenesday, 1 Nov: Messud, _The Emperor's Children_ through ch. 15; `HW 9`.
 * Monday, 6 Nov: Messud, _The Emperor's Children_ through ch. 22.
-* Wednesday, 8 Nov: Messud, _The Emperor's Children_ through ch. 33; dérive leaflet due; `HW 10`.
+* Wednesday, 8 Nov: Messud, _The Emperor's Children_ through ch. 33; `HW 10`.
 * Monday, 13 Nov: Messud, _The Emperor's Children_  through ch. 42.
-* Wednesday, 15 Nov: Messud, _The Emperor’s Children_ through ch. 48; Final project précis
-due; `HW 11`.
-* Monday, 20 Nov: Messud, _The Emperor’s Children_ through ch. 60; `HW 13`.
+* Wednesday, 15 Nov: Messud, _The Emperor’s Children_ through ch. 48; dérive leaflet due; `HW 11`.
+* Monday, 20 Nov: Messud, _The Emperor’s Children_ through ch. 60;  Final
+project précis due; `HW 12`.
 * Wednesday, 22 Nov: **No class** 🦃
 * Monday, 27 Nov: Messud, _The Emperor’s Children_  to end.
 * Wednesday, 29 Nov: Woodson, _Another Brooklyn_ through ch. 5; `HW 13`.
