@@ -3,13 +3,8 @@
 The assignment instructions, though detailed in the syllabus, may be enhanced
 or supplemented during the course. If you have any questions about an
 assignment, you should ask for clarification early. The assignments are due on
-the dates noted in the syllabus. 
-  
-The writing can be submitted electronically, _except_ for the second essay and
-its rewrite, which must be submitted in paper form. I prefer 2up (two pages per
-sheet), two-sided printing. Documents should be formatted sanely: 12pt type and
-double-spaced.
-  
+the dates noted in the syllabus.The writing can be submitted electronically.   
+
 Late assignments jeopardize both your and my rhythms in the class, so they will
 be penalized. I will give you feedback and will happily discuss any work with
 you, but grades should be considered final.
