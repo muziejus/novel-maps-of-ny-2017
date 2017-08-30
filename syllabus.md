@@ -64,7 +64,7 @@ webpage](http://moacir.com/courses-nyu/novel-maps-of-ny-2017). A pdf version is
 [also available](http://moacir.com/courses-nyu/novel-maps-of-ny-2017/syllabus.pdf).
 The source code and documentation for this document is available [at its Github
 repository](http://github.com/muziejus/novel-maps-of-ny-2017). The syllabus is
-©[%year], [%instructor]. It is licensed as Creative Commons 3.0 by-nc-sa,
+©[%year], [%instructor]. It is licensed as Creative Commons 4.0 by-nc-sa,
 giving you permission to share and alter it in any way, as long as it is for
 non-commercial purposes, maintains the license, and gives proper attribution.
 Further information regarding the license, the history of the document, and
