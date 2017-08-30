@@ -5,8 +5,7 @@
         * novels about New York City;
     * developing your skills in
         * writing web pages with JavaScript, HTML, and Markdown;
-        * using the Atom text editor;
-        * versioning with git;
+        * using Git and the Atom text editor;
         * making maps with Leaflet;
         * reading literary texts carefully and analytically;
         * summarizing and presenting texts in class;
