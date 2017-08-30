@@ -8,9 +8,9 @@ instructor email: mds17@nyu.edu
 course url: http://moacir.com/courses-nyu/novel-maps-of-ny-2017
 course code: ENGL-UA 59.001
 course term: Autumn 2017
-course room: xxx
+course room: 194M, 303
 course time: MW 12:30–13:45
-office hours: 244 Greene, 506, T 15:00–16:30
+office hours: 244 Greene, 506, T 13:30–16:30
 github url: http://github.com/muziejus/novel-maps-of-ny-2017
 year: 2017
 transclude base: sections
