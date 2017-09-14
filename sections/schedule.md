@@ -6,7 +6,7 @@ The list of references at the end of the pdf version of the syllabus provides
 bibliographic details for all the texts for the course.
 
 `HW n` refers to the homework in the *n*th chapter of [*The JavaScripting
-English Major*](the-javascripting-english-major.moacir.com).
+English Major*](http://the-javascripting-english-major.moacir.com).
 
 * Wednesday, 6 Sep: Introductions, Whitehead, “City Limits.”
 * Monday, 11 Sep: Cole, _Open City_ through ch. 6.
