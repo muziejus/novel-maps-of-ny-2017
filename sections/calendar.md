@@ -3,11 +3,11 @@
 4 Sep | **No Class** | (Office Hours) | Introductions / Whitehead |
 11 Sep | Cole | (Office Hours) | Cole `HW 1 & 2`|
 18 Sep | Cole (Claire, Soleil) | (Office Hours) | Debord `HW 3`|
-25 Sep | McKay | (Office Hours) | McKay derive 1 due `HW 4`| 
+25 Sep | McKay | (Office Hours) | McKay dérive 1 due `HW 4`| 
 2 Oct | McKay (Ben, Julia) | (Office Hours) | De Certeau `HW 5`|
 9 Oct | **No Class** | (Office Hours) | Slesinger `HW 6`|
 16 Oct | Slesinger | (Office Hours) | Slesinger `HW 7`|
-23 Oct | Slesinger | (Office Hours) | Slesinger (Ashlyn) derive 2 due `HW 8`|
+23 Oct | Slesinger | (Office Hours) | Slesinger (Ashlyn) dérive 2 due `HW 8`|
 30 Oct | Messud | (Office Hours) | Messud (Nikita) `HW 9`|
 6 Nov | Messud (Tamar) | (Office Hours) | Messud `HW 10`|
 13 Nov | Messud | (Office Hours) | Messud dérive leaflet due `HW 11`|
