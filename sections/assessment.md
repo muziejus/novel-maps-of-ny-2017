@@ -45,7 +45,7 @@ the course especially interesting.
 [dérives](http://www.cddc.vt.edu/sionline/si/theory.html) during the semester.
 In both, you will get lost in Manhattan (and beyond?), while also documenting
 and tracking yourself. In order to direct your dérive, you will use either the
-[Derive App](http://deriveapp.com/s/v2/)for your smartphone or a set of cards
+[Derive App](http://deriveapp.com/s/v2/) for your smartphone or a set of cards
 printed out ahead of time. In order to track the dérive, you are required to
 trace your path and take notes on a [Field Papers
 atlas](http://fieldpapers.org/compose#14/40.7220/-73.9924) and, if possible,
