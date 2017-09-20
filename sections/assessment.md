@@ -41,16 +41,23 @@ the course especially interesting.
 
 #### Dérives
 
-**20%** You will undertake two dérives during the semester. In both, you will
-get lost in Manhattan (and beyond?), while also documenting and tracking
-yourself. In order to direct your dérive, you will use either an app for your
-smartphone or a set of cards printed out ahead of time. In order to track the
-dérive, you are required to trace your path and take notes on a Field Papers
-atlas and, if possible, track yourself using GPS.
+**20%** You will undertake two
+[dérives](http://www.cddc.vt.edu/sionline/si/theory.html) during the semester.
+In both, you will get lost in Manhattan (and beyond?), while also documenting
+and tracking yourself. In order to direct your dérive, you will use either the
+[Derive App](http://deriveapp.com/s/v2/)for your smartphone or a set of cards
+printed out ahead of time. In order to track the dérive, you are required to
+trace your path and take notes on a [Field Papers
+atlas](http://fieldpapers.org/compose#14/40.7220/-73.9924) and, if possible,
+track yourself using GPS (the Derive App, if you let it, will save your
+route).
 
 During the course of the dérive, which can last hours, you should reflect on
 the readings we have already done for the class, both in what you observe
-while getting lost, but also in the process of getting lost itself.
+while getting lost, but also in the process of getting lost itself. This is a
+time for [psychogeography](https://en.wikipedia.org/wiki/Psychogeography), not
+wandering listlessly about while checking the ’Gram. Stroll without
+headphones; look around and feel the environment around you.
   
 At the end, you will write up a short (1,100--1,250 words) report for each
 dérive, including textual references from our readings. The report will be
