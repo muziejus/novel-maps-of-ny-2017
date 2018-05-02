@@ -4,7 +4,7 @@ This is the syllabus for the course “Digital Literary Studies: Novel Maps of
 NY,” offered in Autumn 2017 at New York University.
 
 This repository is an attempt to use
-[MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
+[MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) to
 generate both a [handsome
 webpage](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.html) and a
 [handsome pdf](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.pdf) of the
@@ -65,7 +65,7 @@ The process script also runs `mmd syllabus.mmd`, and that creates a file,
 look, a functioning navbar, responsive layout, and a spy that updates the
 navbar based on where you are scrolling. The navbar is built in
 `sections/navbar.html`, and it is only transcluded when outputting to html.
-However, traces of its presence remain when outputting to TeX. 
+However, traces of its presence remain when outputting to TeX.
 
 Some html-specific stuff is done in the metadata, but the html version cannot
 make use of the metadata in the same way the TeX version can. As a result, the
@@ -89,7 +89,7 @@ build that is way beyond the scope of this document.
 
 This works exactly as I want it to. Any more messing about will simply go into
 the post-processing script, possibly including a wrapper script that performs
-all of the commands. 
+all of the commands.
 
 The Bibliography support can be formalized, but as far as I can tell, there’s
 no clean way to make an html bibliography out of BibTeX/Biber, so it might get
@@ -114,7 +114,7 @@ his setup, however.
 
 This structure of this GitHub syllabus was once based on Mark Sample's
 [Videogame Studies](https://github.com/samplereality/videogame-studies)
-syllabus, in how it is presented on GitHub. 
+syllabus, in how it is presented on GitHub.
 
 If you would like to know more about GitHub and syllabi, here are a few
 ProfHacker articles:
